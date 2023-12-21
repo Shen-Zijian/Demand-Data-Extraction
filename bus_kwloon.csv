@@ -1,0 +1,126 @@
+co,route,orig_tc,orig_en,dest_tc,dest_en,orig_sc,dest_sc
+CTB,20,啟德 (沐安街),Kai Tak (Muk On Street),長沙灣 (海達),Cheung Sha Wan (Hoi Tat),启德 (沐安街),长沙湾 (海达)
+CTB,20A,啟德郵輪碼頭 (經:旺角),Kai Tak Cruise Terminal (via: Mong Kok),高鐵西九龍站 (經:旺角),High Speed Rail West Kowloon Station (via: Mong Kok),启德邮轮码头 (经:旺角),高铁西九龙站 (经:旺角)
+CTB,20R,啟德郵輪碼頭,Kai Tak Cruise Terminal,尖沙咀,Tsim Sha Tsui,启德邮轮码头,尖沙咀
+CTB,22,啟德郵輪碼頭,Kai Tak Cruise Terminal,九龍塘 (又一城),Kowloon Tong (Festival Walk),启德邮轮码头,九龙塘 (又一城)
+CTB,22D,啟德站,Kai Tak Station,啟德跑道區,Kai Tak Runway Area,启德站,启德跑道区
+CTB,22M,啟德郵輪碼頭,Kai Tak Cruise Terminal,土瓜灣,To Kwa Wan,启德邮轮码头,土瓜湾
+CTB,22R,啟德站,Kai Tak Station,啟德郵輪碼頭,Kai Tak Cruise Terminal,启德站,启德邮轮码头
+CTB,22X,維港1號,One Victoria,啟德站,Kai Tak Station,维港1号,启德站
+CTB,701,海麗邨／南昌站,Hoi Lai Estate / Nam Cheong Station,旺角,Mong Kok,海丽邨／南昌站,旺角
+CTB,701A,海盈邨,Hoi Ying Estate,旺角,Mong Kok,海盈邨,旺角
+CTB,701S,海麗邨／南昌站,Hoi Lai Estate / Nam Cheong Station,旺角,Mong Kok,海丽邨／南昌站,旺角
+CTB,702,海麗邨／南昌站,Hoi Lai Estate / Nam Cheong Station,九龍塘 (又一城),Kowloon Tong (Festival Walk),海丽邨／南昌站,九龙塘 (又一城)
+CTB,702A,海盈邨,Hoi Ying Estate,白田邨,Pak Tin Estate,海盈邨,白田邨
+CTB,702B,白田 (北),Pak Tin (North),海盈邨,Hoi Ying Estate,白田 (北),海盈邨
+CTB,702S,蘇屋邨,So Uk Estate,長沙灣 (深盛路)／富昌邨,Cheung Sha Wan (Sham Shing Road) / Fu Cheong Estate,苏屋邨,长沙湾 (深盛路)／富昌邨
+CTB,N20,大角咀 (維港灣),Tai Kok Tsui (Island Harbourview),啟德 (沐安街),Kai Tak (Muk On Street),大角咀 (维港湾),启德 (沐安街)
+KMB,1,竹園邨,CHUK YUEN ESTATE,尖沙咀碼頭,STAR FERRY,竹园邨,尖沙咀码头
+KMB,1A,中秀茂坪,SAU MAU PING (CENTRAL),尖沙咀碼頭,STAR FERRY,中秀茂坪,尖沙咀码头
+KMB,2,尖沙咀碼頭,STAR FERRY,長沙灣(蘇屋邨),CHEUNG SHA WAN (SO UK ESTATE),尖沙咀码头,长沙湾(苏屋邨)
+KMB,2A,樂華,LOK WAH,美孚,MEI FOO,乐华,美孚
+KMB,2B,竹園邨,CHUK YUEN ESTATE,長沙灣,CHEUNG SHA WAN,竹园邨,长沙湾
+KMB,2D,澤安邨,CHAK ON ESTATE,黃大仙,WONG TAI SIN,泽安邨,黄大仙
+KMB,2E,九龍城碼頭,KOWLOON CITY FERRY,白田(北),PAK TIN (NORTH),九龙城码头,白田(北)
+KMB,2F,慈雲山(北),TSZ WAN SHAN (NORTH),長沙灣,CHEUNG SHA WAN,慈云山(北),长沙湾
+KMB,2P,長沙灣,CHEUNG SHA WAN,慈雲山(北),TSZ WAN SHAN (NORTH),长沙湾,慈云山(北)
+KMB,2X,彩福,CHOI FOOK,美孚,MEI FOO,彩福,美孚
+KMB,3B,慈雲山(中),TSZ WAN SHAN (CENTRAL),紅磡(紅鸞道),HUNG HOM (HUNG LUEN ROAD),慈云山(中),红磡(红鸾道)
+KMB,3C,慈雲山(北),TSZ WAN SHAN (NORTH),中港碼頭,CHINA FERRY TERMINAL,慈云山(北),中港码头
+KMB,3D,慈雲山(中),TSZ WAN SHAN (CENTRAL),觀塘(裕民坊),KWUN TONG (YUE MAN SQUARE),慈云山(中),观塘(裕民坊)
+KMB,3M,慈雲山(北),TSZ WAN SHAN (NORTH),彩雲,CHOI WAN,慈云山(北),彩云
+KMB,3S,鑽石山站,DIAMOND HILL STATION,鑽石山墳場(循環線),DIAMOND HILL CEMETERY (CIRCULAR),钻石山站,钻石山坟场(循环线)
+KMB,3X,慈雲山(北),TSZ WAN SHAN (NORTH),中港碼頭,CHINA FERRY TERMINAL,慈云山(北),中港码头
+KMB,5,富山邨,FU SHAN ESTATE,尖沙咀碼頭,STAR FERRY,富山邨,尖沙咀码头
+KMB,5A,啟德(啟晴邨),KAI TAK (KAI CHING ESTATE),尖沙咀碼頭,STAR FERRY,启德(启晴邨),尖沙咀码头
+KMB,5C,慈雲山(中),TSZ WAN SHAN (CENTRAL),尖沙咀碼頭,STAR FERRY,慈云山(中),尖沙咀码头
+KMB,5D,德福花園,TELFORD GARDENS,紅磡(循環線),HUNG HOM (CIRCULAR),德福花园,红磡(循环线)
+KMB,5M,啟德(德朗邨),KAI TAK (TAK LONG ESTATE),九龍灣站(循環線),KOWLOON BAY STATION (CIRCULAR),启德(德朗邨),九龙湾站(循环线)
+KMB,5P,慈雲山(中),TSZ WAN SHAN (CENTRAL),尖沙咀碼頭,STAR FERRY,慈云山(中),尖沙咀码头
+KMB,5R,啟德郵輪碼頭,KAI TAK CRUISE TERMINAL,觀塘 (apm) (循環線),KWUN TONG (apm) (CIRCULAR),启德邮轮码头,观塘 (apm) (循环线)
+KMB,5X,慈雲山(中),TSZ WAN SHAN (CENTRAL),尖沙咀碼頭,STAR FERRY,慈云山(中),尖沙咀码头
+KMB,6,尖沙咀碼頭,STAR FERRY,荔枝角,LAI CHI KOK,尖沙咀码头,荔枝角
+KMB,6C,九龍城碼頭,KOWLOON CITY FERRY,美孚,MEI FOO,九龙城码头,美孚
+KMB,6D,牛頭角,NGAU TAU KOK,美孚,MEI FOO,牛头角,美孚
+KMB,6F,九龍城碼頭,KOWLOON CITY FERRY,長沙灣(麗閣邨),CHEUNG SHA WAN (LAI KOK ESTATE),九龙城码头,长沙湾(丽阁邨)
+KMB,6P,長沙灣(蘇屋邨),CHEUNG SHA WAN (SO UK ESTATE),鯉魚門邨,LEI YUE MUN ESTATE,长沙湾(苏屋邨),鲤鱼门邨
+KMB,6R,美孚(美荔道),MEI FOO (MEI LAI ROAD),昂船洲軍營(循環線),NGONG SHUEN CHAU BARRACKS (CIRCULAR),美孚(美荔道),昂船洲军营(循环线)
+KMB,6X,盛德街,SHING TAK STREET,美孚,MEI FOO,盛德街,美孚
+KMB,7,尖沙咀碼頭,STAR FERRY,樂富,LOK FU,尖沙咀码头,乐富
+KMB,7B,紅磡(紅鸞道),HUNG HOM (HUNG LUEN ROAD),樂富,LOK FU,红磡(红鸾道),乐富
+KMB,7M,樂富,LOK FU,竹園邨(循環線),CHUK YUEN ESTATE (CIRCULAR),乐富,竹园邨(循环线)
+KMB,8,尖沙咀碼頭,STAR FERRY,九龍站,KOWLOON STATION,尖沙咀码头,九龙站
+KMB,8A,黃埔花園,WHAMPOA GARDEN,尖沙咀(循環線),TSIM SHA TSUI (CIRCULAR),黄埔花园,尖沙咀(循环线)
+KMB,8P,海逸豪園,LAGUNA VERDE,尖沙咀(循環線),TSIM SHA TSUI (CIRCULAR),海逸豪园,尖沙咀(循环线)
+KMB,9,彩福,CHOI FOOK,尖沙咀東(麼地道),TSIM SHA TSUI EAST (MODY ROAD),彩福,尖沙咀东(么地道)
+KMB,10,彩雲,CHOI WAN,大角咀(循環線),TAI KOK TSUI (CIRCULAR),彩云,大角咀(循环线)
+KMB,11,鑽石山站,DIAMOND HILL STATION,九龍站,KOWLOON STATION,钻石山站,九龙站
+KMB,11B,觀塘(翠屏道),KWUN TONG (TSUI PING ROAD),九龍城碼頭,KOWLOON CITY FERRY,观塘(翠屏道),九龙城码头
+KMB,11C,竹園邨,CHUK YUEN ESTATE,上秀茂坪,SAU MAU PING (UPPER),竹园邨,上秀茂坪
+KMB,11D,樂富,LOK FU,觀塘碼頭,KWUN TONG FERRY,乐富,观塘码头
+KMB,11K,竹園邨,CHUK YUEN ESTATE,紅磡站,HUNG HOM STATION,竹园邨,红磡站
+KMB,11X,安泰(北),ON TAI (NORTH),紅磡站,HUNG HOM STATION,安泰(北),红磡站
+KMB,12,海麗邨,HOI LAI ESTATE,尖沙咀東(麼地道),TSIM SHA TSUI EAST (MODY ROAD),海丽邨,尖沙咀东(么地道)
+KMB,12A,黃埔花園,WHAMPOA GARDEN,長沙灣(海達邨),CHEUNG SHA WAN (HOI TAT ESTATE),黄埔花园,长沙湾(海达邨)
+KMB,12P,海麗邨,Hoi Lai Estate,紅磡站,Hung Hom Station,海丽邨,红磡站
+KMB,13D,寶達,PO TAT,維港灣,ISLAND HARBOURVIEW,宝达,维港湾
+KMB,13M,觀塘(雅麗道),KWUN TONG (ELEGANCE ROAD),寶達(循環線),PO TAT (CIRCULAR),观塘(雅丽道),宝达(循环线)
+KMB,13P,寶達,PO TAT,長沙灣(麗閣邨),CHEUNG SHA WAN (LAI KOK ESTATE),宝达,长沙湾(丽阁邨)
+KMB,13X,寶達,PO TAT,尖沙咀東,TSIM SHA TSUI EAST,宝达,尖沙咀东
+KMB,14,鯉魚門邨,LEI YUE MUN ESTATE,中港碼頭,CHINA FERRY TERMINAL,鲤鱼门邨,中港码头
+KMB,14B,牛頭角,NGAU TAU KOK,藍田(廣田邨),LAM TIN (KWONG TIN ESTATE),牛头角,蓝田(广田邨)
+KMB,14D,油塘,YAU TONG,彩虹,CHOI HUNG,油塘,彩虹
+KMB,14H,油塘,YAU TONG,順利(循環線),SHUN LEE (CIRCULAR),油塘,顺利(循环线)
+KMB,14X,油塘(崇德圍),YAU TONG (SHUNG TAK WAI),尖沙咀(循環線),TSIM SHA TSUI (CIRCULAR),油塘(崇德围),尖沙咀(循环线)
+KMB,15,平田,PING TIN,紅磡(紅鸞道),HUNG HOM (HUNG LUEN ROAD),平田,红磡(红鸾道)
+KMB,15A,平田,PING TIN,慈雲山(北),TSZ WAN SHAN (NORTH),平田,慈云山(北)
+KMB,15X,藍田(廣田邨),LAM TIN (KWONG TIN ESTATE),紅磡站,HUNG HOM STATION,蓝田(广田邨),红磡站
+KMB,16,藍田(廣田邨),LAM TIN (KWONG TIN ESTATE),旺角(柏景灣),MONG KOK (PARK AVENUE),蓝田(广田邨),旺角(柏景湾)
+KMB,16M,觀塘(裕民坊),KWUN TONG (YUE MAN SQUARE),藍田(康華苑)(循環線),LAM TIN (HONG WAH COURT) (CIRCULAR),观塘(裕民坊),蓝田(康华苑)(循环线)
+KMB,16P,觀塘碼頭,KWUN TONG FERRY,旺角(柏景灣),MONG KOK (PARK AVENUE),观塘码头,旺角(柏景湾)
+KMB,16X,藍田(廣田邨),LAM TIN (KWONG TIN ESTATE),旺角(柏景灣),MONG KOK (PARK AVENUE),蓝田(广田邨),旺角(柏景湾)
+KMB,17,觀塘(裕民坊),KWUN TONG (YUE MAN SQUARE),何文田(愛民邨),HO MAN TIN (OI MAN ESTATE),观塘(裕民坊),何文田(爱民邨)
+KMB,18,長沙灣(海達邨),CHEUNG SHA WAN (HOI TAT ESTATE),愛民(循環線),OI MAN (CIRCULAR),长沙湾(海达邨),爱民(循环线)
+KMB,23,觀塘碼頭,KWUN TONG FERRY,順利(循環線),SHUN LEE (CIRCULAR),观塘码头,顺利(循环线)
+KMB,23M,樂華,LOK WAH,順利(循環線),SHUN LEE (CIRCULAR),乐华,顺利(循环线)
+KMB,24,啟業,KAI YIP,旺角(循環線),MONG KOK (CIRCULAR),启业,旺角(循环线)
+KMB,25R,啟德郵輪碼頭,KAI TAK CRUISE TERMINAL,apm創紀之城5期,apm MILLENNIUM CITY 5,启德邮轮码头,apm创纪之城5期
+KMB,26,順天,SHUN TIN,尖沙咀東,TSIM SHA TSUI EAST,顺天,尖沙咀东
+KMB,26M,彩虹,CHOI HUNG,觀塘(循環線),KWUN TONG (CIRCULAR),彩虹,观塘(循环线)
+KMB,26X,順天,SHUN TIN,尖沙咀東,TSIM SHA TSUI EAST,顺天,尖沙咀东
+KMB,27,順天,SHUN TIN,旺角(循環線),MONG KOK (CIRCULAR),顺天,旺角(循环线)
+KMB,28,樂華,LOK WAH,尖沙咀碼頭,STAR FERRY,乐华,尖沙咀码头
+KMB,28B,彩福,CHOI FOOK,啟德(啟晴邨),KAI TAK (KAI CHING ESTATE),彩福,启德(启晴邨)
+KMB,28S,觀塘(裕民坊),KWUN TONG (YUE MAN SQUARE),樂華,LOK WAH,观塘(裕民坊),乐华
+KMB,29M,順利,SHUN LEE,新蒲崗(循環線),SAN PO KONG (CIRCULAR),顺利,新蒲岗(循环线)
+KMB,203C,深水埗(大坑東),SHAM SHUI PO (TAI HANG TUNG),尖沙咀東(麼地道),TSIM SHA TSUI EAST (MODY ROAD),深水埗(大坑东),尖沙咀东(么地道)
+KMB,203E,彩虹,CHOI HUNG,九龍站,KOWLOON STATION,彩虹,九龙站
+KMB,203S,澤安,CHAK ON,尖沙咀東(麼地道),TSIM SHA TSUI EAST (MODY ROAD),泽安,尖沙咀东(么地道)
+KMB,208,廣播道,BROADCAST DRIVE,尖沙咀東,TSIM SHA TSUI EAST,广播道,尖沙咀东
+KMB,211,翠竹花園,TSUI CHUK GARDEN,黃大仙站(循環線),WONG TAI SIN STATION (CIRCULAR),翠竹花园,黄大仙站(循环线)
+KMB,211A,樂富,LOK FU,翠竹花園(循環線),TSUI CHUK GARDEN (CIRCULAR),乐富,翠竹花园(循环线)
+KMB,213A,安達,ON TAT,坪石 / 彩虹站,PING SHEK / CHOI HUNG STATION,安达,坪石 / 彩虹站
+KMB,213B,安泰,ON TAI,觀塘定富街,"TING FU STREET, KWUN TONG",安泰,观塘定富街
+KMB,213D,中秀茂坪,SAU MAU PING (CENTRAL),旺角(循環線),MONG KOK (CIRCULAR),中秀茂坪,旺角(循环线)
+KMB,213M,安泰,ON TAI,藍田站(循環線),LAM TIN STATION (CIRCULAR),安泰,蓝田站(循环线)
+KMB,213S,安達,ON TAT,藍田站(循環線),LAM TIN STATION (CIRCULAR),安达,蓝田站(循环线)
+KMB,213X,安泰(南)(恆泰樓),ON TAI (SOUTH) (HANG TAI HOUSE),尖沙咀(循環線),TSIM SHA TSUI (CIRCULAR),安泰(南)(恒泰楼),尖沙咀(循环线)
+KMB,214,油塘,YAU TONG,長沙灣(甘泉街),CHEUNG SHA WAN (KOM TSUN STREET),油塘,长沙湾(甘泉街)
+KMB,214P,安秀道,ON SAU ROAD,荔枝角站,LAI CHI KOK STATION,安秀道,荔枝角站
+KMB,215P,藍田(廣田邨),LAM TIN (KWONG TIN ESTATE),九龍站,KOWLOON STATION,蓝田(广田邨),九龙站
+KMB,215R,紅磡香港體育館,HONG KONG COLISEUM,順天,SHUN TIN,红磡香港体育馆,顺天
+KMB,215X,藍田(廣田邨),LAM TIN (KWONG TIN ESTATE),九龍站,KOWLOON STATION,蓝田(广田邨),九龙站
+KMB,216M,藍田站,LAM TIN STATION,油塘站(循環線),YAU TONG STATION (CIRCULAR),蓝田站,油塘站(循环线)
+KMB,216R,佐敦(匯民道),JOADAN (WUI MAN ROAD),順天,SHUN TIN,佐敦(汇民道),顺天
+KMB,219X,麗港城,LAGUNA CITY,尖沙咀(循環線),TSIM SHA TSUI (CIRCULAR),丽港城,尖沙咀(循环线)
+KMB,224R,紅磡香港體育館,HONG KONG COLISEUM,黃大仙,WONG TAI SIN,红磡香港体育馆,黄大仙
+KMB,224X,啟業,KAI YIP,尖沙咀東(循環線),TSIM SHA TSUI EAST (CIRCULAR),启业,尖沙咀东(循环线)
+KMB,225R,佐敦(匯民道),JORDAN (WUI MAN ROAD),黃大仙,WONG TAI SIN,佐敦(汇民道),黄大仙
+KMB,N3D,觀塘(裕民坊),KWUN TONG (YUE MAN SQUARE),慈雲山(中),TSZ WAN SHAN (CENTRAL),观塘(裕民坊),慈云山(中)
+KMB,N213,尖沙咀東(麼地道),TSIM SHA TSUI EAST (MODY ROAD),安泰(西),ON TAI (WEST),尖沙咀东(么地道),安泰(西)
+KMB,N214,油塘,YAU TONG,美孚,MEI FOO,油塘,美孚
+KMB,N216,油塘,YAU TONG,紅磡站,HUNG HOM STATION,油塘,红磡站
+KMB,R215,藍田(廣田邨),LAM TIN (KWONG TIN ESTATE),尖東麼地道,TSIM SHA TSUI EAST (MODY ROAD),蓝田(广田邨),尖东么地道
+KMB,W2,佐敦(西九龍站),JORDAN (WEST KOWLOON STATION),觀塘(循環線),KWUN TONG (CIRCULAR),佐敦(西九龙站),观塘(循环线)
+KMB,W4,高鐵(西九龍站),HIGH SPEED RAIL (WEST KOWLOON STATION),香港故宮文化博物館,HONG KONG PALACE MUSEUM,高铁(西九龙站),香港故宫文化博物馆
+KMB,X6C,美孚,MEI FOO,九龍灣,KOWLOON BAY,美孚,九龙湾
