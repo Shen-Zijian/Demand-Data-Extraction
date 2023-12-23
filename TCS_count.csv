@@ -1,0 +1,2989 @@
+start_region,end_region,mode_name,count
+Central & Western,Central & Western,Bus,590
+Central & Western,Central & Western,PLB,129
+Central & Western,Central & Western,Private Vehicle,124
+Central & Western,Central & Western,Rail,52
+Central & Western,Central & Western,SPB,69
+Central & Western,Central & Western,Taxi,116
+Central & Western,Central & Western,Tram,351
+Central & Western,Eastern,Bus,100
+Central & Western,Eastern,PLB,10
+Central & Western,Eastern,Private Vehicle,26
+Central & Western,Eastern,Rail,152
+Central & Western,Eastern,SPB,15
+Central & Western,Eastern,Taxi,16
+Central & Western,Eastern,Tram,15
+Central & Western,Fanling / Sheung Shui,Rail,13
+Central & Western,Fanling / Sheung Shui,Taxi,2
+Central & Western,Kowloon City,Bus,42
+Central & Western,Kowloon City,PLB,12
+Central & Western,Kowloon City,Private Vehicle,9
+Central & Western,Kowloon City,Rail,21
+Central & Western,Kowloon City,SPB,3
+Central & Western,Kwai Chung,Bus,1
+Central & Western,Kwai Chung,PLB,4
+Central & Western,Kwai Chung,Private Vehicle,6
+Central & Western,Kwai Chung,Rail,29
+Central & Western,Kwai Chung,Tram,1
+Central & Western,Kwun Tong,Bus,49
+Central & Western,Kwun Tong,PLB,17
+Central & Western,Kwun Tong,Private Vehicle,6
+Central & Western,Kwun Tong,Rail,44
+Central & Western,Kwun Tong,Taxi,2
+Central & Western,Ma On Shan,Rail,2
+Central & Western,Mong Kok,Bus,61
+Central & Western,Mong Kok,PLB,47
+Central & Western,Mong Kok,Private Vehicle,1
+Central & Western,Mong Kok,Rail,66
+Central & Western,Mong Kok,Taxi,3
+Central & Western,North Lantau,Bus,22
+Central & Western,North Lantau,Private Vehicle,5
+Central & Western,North Lantau,Rail,13
+Central & Western,North Lantau,SPB,2
+Central & Western,North Lantau,Taxi,3
+Central & Western,Rural NENT,Rail,6
+Central & Western,Rural NENT,SPB,1
+Central & Western,Rural NWNT,Bus,4
+Central & Western,Rural NWNT,LRT,1
+Central & Western,Rural NWNT,Private Vehicle,2
+Central & Western,Rural NWNT,Rail,4
+Central & Western,Rural SENT,Rail,4
+Central & Western,Rural SWNT,Ferry,4
+Central & Western,Rural SWNT,Private Vehicle,1
+Central & Western,Rural SWNT,Tram,2
+Central & Western,Sha Tin,Bus,11
+Central & Western,Sha Tin,Private Vehicle,4
+Central & Western,Sha Tin,Rail,43
+Central & Western,Sham Shui Po,Bus,55
+Central & Western,Sham Shui Po,PLB,3
+Central & Western,Sham Shui Po,Private Vehicle,1
+Central & Western,Sham Shui Po,Rail,46
+Central & Western,Sham Shui Po,SPB,1
+Central & Western,Southern,Bus,73
+Central & Western,Southern,PLB,68
+Central & Western,Southern,Private Vehicle,21
+Central & Western,Southern,SPB,37
+Central & Western,Southern,Taxi,10
+Central & Western,Tai Po,Bus,2
+Central & Western,Tai Po,Private Vehicle,2
+Central & Western,Tai Po,Rail,8
+Central & Western,Tai Po,SPB,3
+Central & Western,Tin Shui Wai,Private Vehicle,2
+Central & Western,Tseung Kwan O,Bus,4
+Central & Western,Tseung Kwan O,Private Vehicle,2
+Central & Western,Tseung Kwan O,Rail,38
+Central & Western,Tsing Yi,PLB,2
+Central & Western,Tsing Yi,Rail,7
+Central & Western,Tsuen Wan,Bus,9
+Central & Western,Tsuen Wan,PLB,11
+Central & Western,Tsuen Wan,Private Vehicle,4
+Central & Western,Tsuen Wan,Rail,13
+Central & Western,Tuen Mun,Bus,12
+Central & Western,Tuen Mun,PLB,3
+Central & Western,Tuen Mun,Private Vehicle,3
+Central & Western,Tuen Mun,Rail,6
+Central & Western,Tuen Mun,SPB,2
+Central & Western,Wan Chai,Bus,440
+Central & Western,Wan Chai,PLB,69
+Central & Western,Wan Chai,Private Vehicle,82
+Central & Western,Wan Chai,Rail,181
+Central & Western,Wan Chai,SPB,37
+Central & Western,Wan Chai,Taxi,52
+Central & Western,Wan Chai,Tram,127
+Central & Western,Wong Tai Sin,Rail,16
+Central & Western,Wong Tai Sin,SPB,2
+Central & Western,Yau Ma Tei,Bus,65
+Central & Western,Yau Ma Tei,Ferry,17
+Central & Western,Yau Ma Tei,PLB,4
+Central & Western,Yau Ma Tei,Private Vehicle,10
+Central & Western,Yau Ma Tei,Rail,149
+Central & Western,Yau Ma Tei,SPB,1
+Central & Western,Yau Ma Tei,Taxi,7
+Central & Western,Yuen Long,Bus,2
+Central & Western,Yuen Long,Rail,4
+Eastern,Central & Western,Bus,491
+Eastern,Central & Western,PLB,27
+Eastern,Central & Western,Private Vehicle,48
+Eastern,Central & Western,Rail,1149
+Eastern,Central & Western,SPB,53
+Eastern,Central & Western,Taxi,78
+Eastern,Central & Western,Tram,34
+Eastern,Eastern,Bus,1118
+Eastern,Eastern,PLB,548
+Eastern,Eastern,Private Vehicle,96
+Eastern,Eastern,Rail,1101
+Eastern,Eastern,SPB,318
+Eastern,Eastern,Taxi,73
+Eastern,Eastern,Tram,325
+Eastern,Fanling / Sheung Shui,Bus,1
+Eastern,Fanling / Sheung Shui,Private Vehicle,4
+Eastern,Fanling / Sheung Shui,Rail,12
+Eastern,Kowloon City,Bus,144
+Eastern,Kowloon City,Ferry,14
+Eastern,Kowloon City,PLB,13
+Eastern,Kowloon City,Private Vehicle,27
+Eastern,Kowloon City,Rail,103
+Eastern,Kowloon City,SPB,1
+Eastern,Kowloon City,Taxi,2
+Eastern,Kwai Chung,Bus,5
+Eastern,Kwai Chung,Private Vehicle,14
+Eastern,Kwai Chung,Rail,110
+Eastern,Kwai Chung,Taxi,1
+Eastern,Kwun Tong,Bus,68
+Eastern,Kwun Tong,Ferry,18
+Eastern,Kwun Tong,PLB,43
+Eastern,Kwun Tong,Private Vehicle,37
+Eastern,Kwun Tong,Rail,533
+Eastern,Kwun Tong,Taxi,15
+Eastern,Ma On Shan,Bus,11
+Eastern,Ma On Shan,Private Vehicle,3
+Eastern,Ma On Shan,Rail,3
+Eastern,Mong Kok,Bus,55
+Eastern,Mong Kok,PLB,2
+Eastern,Mong Kok,Private Vehicle,14
+Eastern,Mong Kok,Rail,185
+Eastern,Mong Kok,SPB,2
+Eastern,Mong Kok,Taxi,1
+Eastern,Mong Kok,Tram,1
+Eastern,North Lantau,Bus,11
+Eastern,North Lantau,Private Vehicle,6
+Eastern,North Lantau,Rail,66
+Eastern,North Lantau,SPB,23
+Eastern,North Lantau,Taxi,4
+Eastern,Rural NENT,Ferry,4
+Eastern,Rural NENT,Rail,38
+Eastern,Rural NWNT,Bus,3
+Eastern,Rural NWNT,Private Vehicle,6
+Eastern,Rural NWNT,Rail,13
+Eastern,Rural NWNT,SPB,1
+Eastern,Rural NWNT,Taxi,1
+Eastern,Rural SENT,Private Vehicle,4
+Eastern,Rural SENT,Rail,29
+Eastern,Rural SWNT,Bus,2
+Eastern,Rural SWNT,Ferry,10
+Eastern,Rural SWNT,Rail,13
+Eastern,Sha Tin,Bus,51
+Eastern,Sha Tin,PLB,1
+Eastern,Sha Tin,Private Vehicle,13
+Eastern,Sha Tin,Rail,119
+Eastern,Sha Tin,SPB,7
+Eastern,Sha Tin,Taxi,1
+Eastern,Sham Shui Po,Bus,27
+Eastern,Sham Shui Po,Private Vehicle,15
+Eastern,Sham Shui Po,Rail,218
+Eastern,Sham Shui Po,SPB,1
+Eastern,Sham Shui Po,Taxi,1
+Eastern,Southern,Bus,139
+Eastern,Southern,PLB,51
+Eastern,Southern,Private Vehicle,30
+Eastern,Southern,Rail,57
+Eastern,Southern,SPB,57
+Eastern,Southern,Taxi,6
+Eastern,Southern,Tram,7
+Eastern,Tai Po,Bus,9
+Eastern,Tai Po,PLB,2
+Eastern,Tai Po,Private Vehicle,7
+Eastern,Tai Po,Rail,38
+Eastern,Tai Po,SPB,11
+Eastern,Tin Shui Wai,Bus,2
+Eastern,Tseung Kwan O,Bus,5
+Eastern,Tseung Kwan O,PLB,6
+Eastern,Tseung Kwan O,Private Vehicle,5
+Eastern,Tseung Kwan O,Rail,155
+Eastern,Tseung Kwan O,SPB,3
+Eastern,Tseung Kwan O,Taxi,3
+Eastern,Tsing Yi,Bus,5
+Eastern,Tsing Yi,Rail,21
+Eastern,Tsing Yi,SPB,1
+Eastern,Tsuen Wan,Bus,1
+Eastern,Tsuen Wan,PLB,1
+Eastern,Tsuen Wan,Private Vehicle,2
+Eastern,Tsuen Wan,Rail,82
+Eastern,Tsuen Wan,Taxi,1
+Eastern,Tuen Mun,Bus,5
+Eastern,Tuen Mun,PLB,2
+Eastern,Tuen Mun,Private Vehicle,4
+Eastern,Tuen Mun,Rail,17
+Eastern,Wan Chai,Bus,892
+Eastern,Wan Chai,PLB,61
+Eastern,Wan Chai,Private Vehicle,124
+Eastern,Wan Chai,Rail,916
+Eastern,Wan Chai,SPB,225
+Eastern,Wan Chai,Taxi,73
+Eastern,Wan Chai,Tram,179
+Eastern,Wong Tai Sin,Bus,11
+Eastern,Wong Tai Sin,PLB,2
+Eastern,Wong Tai Sin,Private Vehicle,7
+Eastern,Wong Tai Sin,Rail,62
+Eastern,Wong Tai Sin,SPB,2
+Eastern,Yau Ma Tei,Bus,81
+Eastern,Yau Ma Tei,Ferry,5
+Eastern,Yau Ma Tei,PLB,3
+Eastern,Yau Ma Tei,Private Vehicle,14
+Eastern,Yau Ma Tei,Rail,420
+Eastern,Yau Ma Tei,SPB,2
+Eastern,Yau Ma Tei,Taxi,11
+Eastern,Yau Ma Tei,Tram,2
+Eastern,Yuen Long,Bus,6
+Eastern,Yuen Long,Rail,10
+Eastern,Yuen Long,SPB,8
+Fanling / Sheung Shui,Central & Western,Bus,12
+Fanling / Sheung Shui,Central & Western,Private Vehicle,6
+Fanling / Sheung Shui,Central & Western,Rail,116
+Fanling / Sheung Shui,Central & Western,SPB,3
+Fanling / Sheung Shui,Eastern,Bus,10
+Fanling / Sheung Shui,Eastern,Rail,55
+Fanling / Sheung Shui,Eastern,SPB,7
+Fanling / Sheung Shui,Fanling / Sheung Shui,Bus,359
+Fanling / Sheung Shui,Fanling / Sheung Shui,PLB,126
+Fanling / Sheung Shui,Fanling / Sheung Shui,Private Vehicle,61
+Fanling / Sheung Shui,Fanling / Sheung Shui,Rail,127
+Fanling / Sheung Shui,Fanling / Sheung Shui,SPB,155
+Fanling / Sheung Shui,Fanling / Sheung Shui,Taxi,27
+Fanling / Sheung Shui,Kowloon City,Bus,15
+Fanling / Sheung Shui,Kowloon City,Private Vehicle,9
+Fanling / Sheung Shui,Kowloon City,Rail,119
+Fanling / Sheung Shui,Kowloon City,SPB,3
+Fanling / Sheung Shui,Kwai Chung,Bus,40
+Fanling / Sheung Shui,Kwai Chung,PLB,3
+Fanling / Sheung Shui,Kwai Chung,Private Vehicle,15
+Fanling / Sheung Shui,Kwai Chung,Rail,23
+Fanling / Sheung Shui,Kwai Chung,SPB,2
+Fanling / Sheung Shui,Kwun Tong,Bus,69
+Fanling / Sheung Shui,Kwun Tong,PLB,6
+Fanling / Sheung Shui,Kwun Tong,Private Vehicle,10
+Fanling / Sheung Shui,Kwun Tong,Rail,119
+Fanling / Sheung Shui,Kwun Tong,SPB,1
+Fanling / Sheung Shui,Kwun Tong,Taxi,1
+Fanling / Sheung Shui,Ma On Shan,Private Vehicle,4
+Fanling / Sheung Shui,Ma On Shan,Rail,23
+Fanling / Sheung Shui,Mong Kok,Bus,11
+Fanling / Sheung Shui,Mong Kok,PLB,2
+Fanling / Sheung Shui,Mong Kok,Private Vehicle,9
+Fanling / Sheung Shui,Mong Kok,Rail,191
+Fanling / Sheung Shui,Mong Kok,Taxi,1
+Fanling / Sheung Shui,North Lantau,Bus,29
+Fanling / Sheung Shui,North Lantau,Private Vehicle,1
+Fanling / Sheung Shui,North Lantau,Rail,6
+Fanling / Sheung Shui,North Lantau,SPB,6
+Fanling / Sheung Shui,North Lantau,Taxi,1
+Fanling / Sheung Shui,Rural NENT,Bus,19
+Fanling / Sheung Shui,Rural NENT,PLB,37
+Fanling / Sheung Shui,Rural NENT,Private Vehicle,20
+Fanling / Sheung Shui,Rural NENT,Rail,80
+Fanling / Sheung Shui,Rural NENT,SPB,7
+Fanling / Sheung Shui,Rural NENT,Taxi,1
+Fanling / Sheung Shui,Rural NWNT,Bus,13
+Fanling / Sheung Shui,Rural NWNT,LRT,3
+Fanling / Sheung Shui,Rural NWNT,PLB,23
+Fanling / Sheung Shui,Rural NWNT,Private Vehicle,23
+Fanling / Sheung Shui,Rural NWNT,Rail,22
+Fanling / Sheung Shui,Rural NWNT,SPB,8
+Fanling / Sheung Shui,Rural SENT,Bus,3
+Fanling / Sheung Shui,Rural SENT,PLB,2
+Fanling / Sheung Shui,Rural SENT,Private Vehicle,2
+Fanling / Sheung Shui,Rural SENT,Rail,2
+Fanling / Sheung Shui,Rural SWNT,Bus,2
+Fanling / Sheung Shui,Rural SWNT,Rail,1
+Fanling / Sheung Shui,Sha Tin,Bus,13
+Fanling / Sheung Shui,Sha Tin,PLB,3
+Fanling / Sheung Shui,Sha Tin,Private Vehicle,38
+Fanling / Sheung Shui,Sha Tin,Rail,422
+Fanling / Sheung Shui,Sha Tin,SPB,7
+Fanling / Sheung Shui,Sham Shui Po,Bus,8
+Fanling / Sheung Shui,Sham Shui Po,PLB,3
+Fanling / Sheung Shui,Sham Shui Po,Private Vehicle,11
+Fanling / Sheung Shui,Sham Shui Po,Rail,105
+Fanling / Sheung Shui,Sham Shui Po,SPB,4
+Fanling / Sheung Shui,Southern,Bus,3
+Fanling / Sheung Shui,Southern,Rail,21
+Fanling / Sheung Shui,Southern,SPB,1
+Fanling / Sheung Shui,Tai Po,Bus,25
+Fanling / Sheung Shui,Tai Po,PLB,25
+Fanling / Sheung Shui,Tai Po,Private Vehicle,25
+Fanling / Sheung Shui,Tai Po,Rail,297
+Fanling / Sheung Shui,Tai Po,SPB,19
+Fanling / Sheung Shui,Tin Shui Wai,Bus,12
+Fanling / Sheung Shui,Tin Shui Wai,Private Vehicle,4
+Fanling / Sheung Shui,Tin Shui Wai,Rail,4
+Fanling / Sheung Shui,Tseung Kwan O,Bus,5
+Fanling / Sheung Shui,Tseung Kwan O,Private Vehicle,5
+Fanling / Sheung Shui,Tseung Kwan O,Rail,34
+Fanling / Sheung Shui,Tseung Kwan O,SPB,6
+Fanling / Sheung Shui,Tsing Yi,Bus,8
+Fanling / Sheung Shui,Tsing Yi,PLB,1
+Fanling / Sheung Shui,Tsing Yi,Private Vehicle,2
+Fanling / Sheung Shui,Tsing Yi,Rail,9
+Fanling / Sheung Shui,Tsuen Wan,Bus,68
+Fanling / Sheung Shui,Tsuen Wan,PLB,1
+Fanling / Sheung Shui,Tsuen Wan,Rail,8
+Fanling / Sheung Shui,Tuen Mun,Bus,4
+Fanling / Sheung Shui,Tuen Mun,PLB,39
+Fanling / Sheung Shui,Tuen Mun,Private Vehicle,10
+Fanling / Sheung Shui,Tuen Mun,Rail,9
+Fanling / Sheung Shui,Wan Chai,Bus,14
+Fanling / Sheung Shui,Wan Chai,PLB,4
+Fanling / Sheung Shui,Wan Chai,Rail,119
+Fanling / Sheung Shui,Wan Chai,SPB,12
+Fanling / Sheung Shui,Wong Tai Sin,Bus,24
+Fanling / Sheung Shui,Wong Tai Sin,Private Vehicle,1
+Fanling / Sheung Shui,Wong Tai Sin,Rail,21
+Fanling / Sheung Shui,Yau Ma Tei,Bus,38
+Fanling / Sheung Shui,Yau Ma Tei,PLB,3
+Fanling / Sheung Shui,Yau Ma Tei,Private Vehicle,6
+Fanling / Sheung Shui,Yau Ma Tei,Rail,191
+Fanling / Sheung Shui,Yau Ma Tei,Taxi,3
+Fanling / Sheung Shui,Yuen Long,Bus,38
+Fanling / Sheung Shui,Yuen Long,PLB,9
+Fanling / Sheung Shui,Yuen Long,Private Vehicle,13
+Fanling / Sheung Shui,Yuen Long,Rail,1
+Fanling / Sheung Shui,Yuen Long,SPB,1
+Kowloon City,Central & Western,Bus,296
+Kowloon City,Central & Western,Ferry,24
+Kowloon City,Central & Western,PLB,17
+Kowloon City,Central & Western,Private Vehicle,20
+Kowloon City,Central & Western,Rail,175
+Kowloon City,Central & Western,SPB,3
+Kowloon City,Central & Western,Taxi,19
+Kowloon City,Eastern,Bus,105
+Kowloon City,Eastern,Ferry,19
+Kowloon City,Eastern,PLB,5
+Kowloon City,Eastern,Private Vehicle,17
+Kowloon City,Eastern,Rail,72
+Kowloon City,Eastern,SPB,3
+Kowloon City,Eastern,Taxi,2
+Kowloon City,Eastern,Tram,2
+Kowloon City,Fanling / Sheung Shui,Bus,2
+Kowloon City,Fanling / Sheung Shui,Private Vehicle,7
+Kowloon City,Fanling / Sheung Shui,Rail,19
+Kowloon City,Kowloon City,Bus,366
+Kowloon City,Kowloon City,PLB,249
+Kowloon City,Kowloon City,Private Vehicle,191
+Kowloon City,Kowloon City,Rail,23
+Kowloon City,Kowloon City,SPB,145
+Kowloon City,Kowloon City,Taxi,83
+Kowloon City,Kwai Chung,Bus,7
+Kowloon City,Kwai Chung,PLB,29
+Kowloon City,Kwai Chung,Private Vehicle,29
+Kowloon City,Kwai Chung,Rail,41
+Kowloon City,Kwai Chung,Taxi,1
+Kowloon City,Kwun Tong,Bus,292
+Kowloon City,Kwun Tong,PLB,58
+Kowloon City,Kwun Tong,Private Vehicle,82
+Kowloon City,Kwun Tong,Rail,32
+Kowloon City,Kwun Tong,SPB,15
+Kowloon City,Kwun Tong,Taxi,23
+Kowloon City,Ma On Shan,Bus,7
+Kowloon City,Ma On Shan,Private Vehicle,2
+Kowloon City,Ma On Shan,Rail,16
+Kowloon City,Ma On Shan,SPB,8
+Kowloon City,Mong Kok,Bus,176
+Kowloon City,Mong Kok,PLB,164
+Kowloon City,Mong Kok,Private Vehicle,39
+Kowloon City,Mong Kok,Rail,43
+Kowloon City,Mong Kok,SPB,6
+Kowloon City,Mong Kok,Taxi,46
+Kowloon City,North Lantau,Bus,27
+Kowloon City,North Lantau,PLB,1
+Kowloon City,North Lantau,Private Vehicle,15
+Kowloon City,North Lantau,Rail,16
+Kowloon City,North Lantau,SPB,15
+Kowloon City,North Lantau,Taxi,5
+Kowloon City,Rural NENT,Private Vehicle,16
+Kowloon City,Rural NENT,Rail,45
+Kowloon City,Rural NENT,Taxi,1
+Kowloon City,Rural NWNT,Bus,3
+Kowloon City,Rural NWNT,PLB,5
+Kowloon City,Rural NWNT,Private Vehicle,11
+Kowloon City,Rural NWNT,Rail,9
+Kowloon City,Rural NWNT,SPB,3
+Kowloon City,Rural NWNT,Taxi,1
+Kowloon City,Rural SENT,Bus,7
+Kowloon City,Rural SENT,PLB,8
+Kowloon City,Rural SENT,Private Vehicle,13
+Kowloon City,Rural SENT,Rail,4
+Kowloon City,Rural SENT,SPB,3
+Kowloon City,Rural SENT,Taxi,1
+Kowloon City,Rural SWNT,Ferry,1
+Kowloon City,Sha Tin,Bus,56
+Kowloon City,Sha Tin,PLB,1
+Kowloon City,Sha Tin,Private Vehicle,22
+Kowloon City,Sha Tin,Rail,118
+Kowloon City,Sha Tin,SPB,6
+Kowloon City,Sha Tin,Taxi,5
+Kowloon City,Sham Shui Po,Bus,119
+Kowloon City,Sham Shui Po,PLB,92
+Kowloon City,Sham Shui Po,Private Vehicle,62
+Kowloon City,Sham Shui Po,Rail,56
+Kowloon City,Sham Shui Po,SPB,19
+Kowloon City,Sham Shui Po,Taxi,23
+Kowloon City,Southern,Bus,43
+Kowloon City,Southern,PLB,10
+Kowloon City,Southern,Private Vehicle,12
+Kowloon City,Southern,SPB,6
+Kowloon City,Southern,Taxi,2
+Kowloon City,Tai Po,Bus,16
+Kowloon City,Tai Po,PLB,5
+Kowloon City,Tai Po,Private Vehicle,14
+Kowloon City,Tai Po,Rail,23
+Kowloon City,Tai Po,SPB,4
+Kowloon City,Tin Shui Wai,Bus,1
+Kowloon City,Tin Shui Wai,PLB,1
+Kowloon City,Tin Shui Wai,Rail,4
+Kowloon City,Tseung Kwan O,Bus,44
+Kowloon City,Tseung Kwan O,PLB,18
+Kowloon City,Tseung Kwan O,Private Vehicle,6
+Kowloon City,Tseung Kwan O,Rail,23
+Kowloon City,Tseung Kwan O,SPB,6
+Kowloon City,Tseung Kwan O,Taxi,1
+Kowloon City,Tsing Yi,Bus,3
+Kowloon City,Tsing Yi,PLB,2
+Kowloon City,Tsing Yi,Private Vehicle,5
+Kowloon City,Tsing Yi,Rail,4
+Kowloon City,Tsing Yi,SPB,2
+Kowloon City,Tsuen Wan,Bus,20
+Kowloon City,Tsuen Wan,PLB,15
+Kowloon City,Tsuen Wan,Private Vehicle,21
+Kowloon City,Tsuen Wan,Rail,45
+Kowloon City,Tsuen Wan,Taxi,7
+Kowloon City,Tuen Mun,Bus,7
+Kowloon City,Tuen Mun,LRT,2
+Kowloon City,Tuen Mun,PLB,6
+Kowloon City,Tuen Mun,Private Vehicle,9
+Kowloon City,Tuen Mun,Rail,3
+Kowloon City,Wan Chai,Bus,268
+Kowloon City,Wan Chai,Ferry,16
+Kowloon City,Wan Chai,PLB,5
+Kowloon City,Wan Chai,Private Vehicle,51
+Kowloon City,Wan Chai,Rail,78
+Kowloon City,Wan Chai,SPB,6
+Kowloon City,Wan Chai,Taxi,12
+Kowloon City,Wan Chai,Tram,2
+Kowloon City,Wong Tai Sin,Bus,107
+Kowloon City,Wong Tai Sin,PLB,27
+Kowloon City,Wong Tai Sin,Private Vehicle,35
+Kowloon City,Wong Tai Sin,Rail,15
+Kowloon City,Wong Tai Sin,SPB,26
+Kowloon City,Wong Tai Sin,Taxi,12
+Kowloon City,Yau Ma Tei,Bus,374
+Kowloon City,Yau Ma Tei,PLB,152
+Kowloon City,Yau Ma Tei,Private Vehicle,92
+Kowloon City,Yau Ma Tei,Rail,60
+Kowloon City,Yau Ma Tei,SPB,14
+Kowloon City,Yau Ma Tei,Taxi,79
+Kowloon City,Yuen Long,Bus,2
+Kowloon City,Yuen Long,Private Vehicle,4
+Kowloon City,Yuen Long,Rail,11
+Kwai Chung,Central & Western,Bus,33
+Kwai Chung,Central & Western,PLB,13
+Kwai Chung,Central & Western,Rail,202
+Kwai Chung,Central & Western,Taxi,2
+Kwai Chung,Eastern,Bus,7
+Kwai Chung,Eastern,PLB,3
+Kwai Chung,Eastern,Private Vehicle,7
+Kwai Chung,Eastern,Rail,122
+Kwai Chung,Eastern,Taxi,1
+Kwai Chung,Fanling / Sheung Shui,Bus,17
+Kwai Chung,Fanling / Sheung Shui,PLB,1
+Kwai Chung,Fanling / Sheung Shui,Private Vehicle,2
+Kwai Chung,Fanling / Sheung Shui,Rail,2
+Kwai Chung,Kowloon City,Bus,20
+Kwai Chung,Kowloon City,PLB,29
+Kwai Chung,Kowloon City,Private Vehicle,4
+Kwai Chung,Kowloon City,Rail,73
+Kwai Chung,Kowloon City,SPB,9
+Kwai Chung,Kowloon City,Taxi,8
+Kwai Chung,Kwai Chung,Bus,349
+Kwai Chung,Kwai Chung,PLB,320
+Kwai Chung,Kwai Chung,Private Vehicle,34
+Kwai Chung,Kwai Chung,Rail,118
+Kwai Chung,Kwai Chung,SPB,90
+Kwai Chung,Kwai Chung,Taxi,18
+Kwai Chung,Kwun Tong,Bus,76
+Kwai Chung,Kwun Tong,PLB,9
+Kwai Chung,Kwun Tong,Private Vehicle,14
+Kwai Chung,Kwun Tong,Rail,126
+Kwai Chung,Kwun Tong,SPB,2
+Kwai Chung,Kwun Tong,Taxi,1
+Kwai Chung,Ma On Shan,Bus,6
+Kwai Chung,Ma On Shan,Private Vehicle,1
+Kwai Chung,Mong Kok,Bus,67
+Kwai Chung,Mong Kok,PLB,41
+Kwai Chung,Mong Kok,Private Vehicle,9
+Kwai Chung,Mong Kok,Rail,163
+Kwai Chung,Mong Kok,SPB,3
+Kwai Chung,Mong Kok,Taxi,9
+Kwai Chung,North Lantau,Bus,57
+Kwai Chung,North Lantau,PLB,9
+Kwai Chung,North Lantau,Private Vehicle,1
+Kwai Chung,North Lantau,Rail,45
+Kwai Chung,North Lantau,SPB,4
+Kwai Chung,North Lantau,Taxi,2
+Kwai Chung,Rural NENT,Bus,2
+Kwai Chung,Rural NENT,PLB,4
+Kwai Chung,Rural NENT,Private Vehicle,1
+Kwai Chung,Rural NENT,Rail,20
+Kwai Chung,Rural NWNT,Bus,4
+Kwai Chung,Rural NWNT,PLB,4
+Kwai Chung,Rural NWNT,Private Vehicle,7
+Kwai Chung,Rural NWNT,Rail,8
+Kwai Chung,Rural NWNT,SPB,2
+Kwai Chung,Rural NWNT,Taxi,2
+Kwai Chung,Rural SENT,Bus,3
+Kwai Chung,Rural SENT,Ferry,1
+Kwai Chung,Rural SENT,PLB,4
+Kwai Chung,Rural SENT,Private Vehicle,2
+Kwai Chung,Rural SENT,Rail,2
+Kwai Chung,Rural SWNT,Rail,6
+Kwai Chung,Sha Tin,Bus,67
+Kwai Chung,Sha Tin,PLB,20
+Kwai Chung,Sha Tin,Rail,31
+Kwai Chung,Sha Tin,SPB,6
+Kwai Chung,Sha Tin,Taxi,2
+Kwai Chung,Sham Shui Po,Bus,164
+Kwai Chung,Sham Shui Po,PLB,42
+Kwai Chung,Sham Shui Po,Private Vehicle,40
+Kwai Chung,Sham Shui Po,Rail,236
+Kwai Chung,Sham Shui Po,SPB,24
+Kwai Chung,Sham Shui Po,Taxi,5
+Kwai Chung,Southern,Bus,1
+Kwai Chung,Southern,PLB,3
+Kwai Chung,Southern,Rail,17
+Kwai Chung,Tai Po,Bus,38
+Kwai Chung,Tai Po,PLB,2
+Kwai Chung,Tai Po,Private Vehicle,4
+Kwai Chung,Tai Po,Rail,18
+Kwai Chung,Tai Po,SPB,3
+Kwai Chung,Tin Shui Wai,Bus,8
+Kwai Chung,Tin Shui Wai,PLB,1
+Kwai Chung,Tin Shui Wai,Rail,5
+Kwai Chung,Tseung Kwan O,Bus,6
+Kwai Chung,Tseung Kwan O,PLB,2
+Kwai Chung,Tseung Kwan O,Rail,38
+Kwai Chung,Tseung Kwan O,Taxi,1
+Kwai Chung,Tsing Yi,Bus,78
+Kwai Chung,Tsing Yi,PLB,42
+Kwai Chung,Tsing Yi,Private Vehicle,8
+Kwai Chung,Tsing Yi,Rail,22
+Kwai Chung,Tsing Yi,SPB,7
+Kwai Chung,Tsing Yi,Taxi,3
+Kwai Chung,Tsuen Wan,Bus,261
+Kwai Chung,Tsuen Wan,PLB,325
+Kwai Chung,Tsuen Wan,Private Vehicle,13
+Kwai Chung,Tsuen Wan,Rail,122
+Kwai Chung,Tsuen Wan,SPB,17
+Kwai Chung,Tsuen Wan,Taxi,13
+Kwai Chung,Tuen Mun,Bus,31
+Kwai Chung,Tuen Mun,PLB,9
+Kwai Chung,Tuen Mun,Private Vehicle,10
+Kwai Chung,Tuen Mun,Rail,9
+Kwai Chung,Tuen Mun,SPB,1
+Kwai Chung,Wan Chai,Bus,13
+Kwai Chung,Wan Chai,Private Vehicle,6
+Kwai Chung,Wan Chai,Rail,182
+Kwai Chung,Wong Tai Sin,Bus,34
+Kwai Chung,Wong Tai Sin,PLB,3
+Kwai Chung,Wong Tai Sin,Private Vehicle,2
+Kwai Chung,Wong Tai Sin,Rail,39
+Kwai Chung,Wong Tai Sin,SPB,4
+Kwai Chung,Wong Tai Sin,Taxi,2
+Kwai Chung,Yau Ma Tei,Bus,81
+Kwai Chung,Yau Ma Tei,PLB,15
+Kwai Chung,Yau Ma Tei,Private Vehicle,11
+Kwai Chung,Yau Ma Tei,Rail,213
+Kwai Chung,Yau Ma Tei,SPB,2
+Kwai Chung,Yau Ma Tei,Taxi,3
+Kwai Chung,Yuen Long,Bus,11
+Kwai Chung,Yuen Long,PLB,1
+Kwai Chung,Yuen Long,Private Vehicle,2
+Kwai Chung,Yuen Long,Rail,11
+Kwai Chung,Yuen Long,SPB,2
+Kwun Tong,Central & Western,Bus,232
+Kwun Tong,Central & Western,Ferry,2
+Kwun Tong,Central & Western,PLB,40
+Kwun Tong,Central & Western,Private Vehicle,12
+Kwun Tong,Central & Western,Rail,433
+Kwun Tong,Central & Western,SPB,3
+Kwun Tong,Central & Western,Taxi,4
+Kwun Tong,Central & Western,Tram,3
+Kwun Tong,Eastern,Bus,76
+Kwun Tong,Eastern,Ferry,1
+Kwun Tong,Eastern,PLB,25
+Kwun Tong,Eastern,Private Vehicle,4
+Kwun Tong,Eastern,Rail,524
+Kwun Tong,Eastern,SPB,10
+Kwun Tong,Eastern,Taxi,2
+Kwun Tong,Eastern,Tram,2
+Kwun Tong,Fanling / Sheung Shui,Bus,11
+Kwun Tong,Fanling / Sheung Shui,PLB,4
+Kwun Tong,Fanling / Sheung Shui,Rail,28
+Kwun Tong,Kowloon City,Bus,436
+Kwun Tong,Kowloon City,PLB,94
+Kwun Tong,Kowloon City,Private Vehicle,49
+Kwun Tong,Kowloon City,Rail,122
+Kwun Tong,Kowloon City,SPB,119
+Kwun Tong,Kowloon City,Taxi,10
+Kwun Tong,Kwai Chung,Bus,52
+Kwun Tong,Kwai Chung,PLB,24
+Kwun Tong,Kwai Chung,Private Vehicle,12
+Kwun Tong,Kwai Chung,Rail,125
+Kwun Tong,Kwai Chung,SPB,2
+Kwun Tong,Kwun Tong,Bus,758
+Kwun Tong,Kwun Tong,PLB,1042
+Kwun Tong,Kwun Tong,Private Vehicle,84
+Kwun Tong,Kwun Tong,Rail,783
+Kwun Tong,Kwun Tong,SPB,230
+Kwun Tong,Kwun Tong,Taxi,81
+Kwun Tong,Ma On Shan,Bus,27
+Kwun Tong,Ma On Shan,Private Vehicle,2
+Kwun Tong,Ma On Shan,Rail,12
+Kwun Tong,Ma On Shan,SPB,1
+Kwun Tong,Mong Kok,Bus,214
+Kwun Tong,Mong Kok,PLB,143
+Kwun Tong,Mong Kok,Private Vehicle,24
+Kwun Tong,Mong Kok,Rail,261
+Kwun Tong,Mong Kok,SPB,7
+Kwun Tong,Mong Kok,Taxi,11
+Kwun Tong,North Lantau,Bus,52
+Kwun Tong,North Lantau,PLB,7
+Kwun Tong,North Lantau,Rail,28
+Kwun Tong,North Lantau,SPB,16
+Kwun Tong,Rural NENT,Bus,2
+Kwun Tong,Rural NENT,Private Vehicle,2
+Kwun Tong,Rural NENT,Rail,47
+Kwun Tong,Rural NENT,Taxi,2
+Kwun Tong,Rural NWNT,Bus,8
+Kwun Tong,Rural NWNT,LRT,2
+Kwun Tong,Rural NWNT,PLB,8
+Kwun Tong,Rural NWNT,Private Vehicle,4
+Kwun Tong,Rural NWNT,Rail,14
+Kwun Tong,Rural NWNT,SPB,4
+Kwun Tong,Rural SENT,Bus,20
+Kwun Tong,Rural SENT,Ferry,1
+Kwun Tong,Rural SENT,PLB,31
+Kwun Tong,Rural SENT,Private Vehicle,9
+Kwun Tong,Rural SENT,Rail,17
+Kwun Tong,Rural SENT,SPB,3
+Kwun Tong,Rural SENT,Taxi,2
+Kwun Tong,Rural SWNT,Ferry,1
+Kwun Tong,Rural SWNT,Rail,3
+Kwun Tong,Sha Tin,Bus,144
+Kwun Tong,Sha Tin,PLB,15
+Kwun Tong,Sha Tin,Private Vehicle,14
+Kwun Tong,Sha Tin,Rail,130
+Kwun Tong,Sha Tin,SPB,7
+Kwun Tong,Sham Shui Po,Bus,91
+Kwun Tong,Sham Shui Po,PLB,57
+Kwun Tong,Sham Shui Po,Private Vehicle,5
+Kwun Tong,Sham Shui Po,Rail,308
+Kwun Tong,Sham Shui Po,SPB,13
+Kwun Tong,Sham Shui Po,Taxi,4
+Kwun Tong,Southern,Bus,48
+Kwun Tong,Southern,PLB,12
+Kwun Tong,Southern,Private Vehicle,3
+Kwun Tong,Southern,Rail,40
+Kwun Tong,Southern,SPB,3
+Kwun Tong,Southern,Taxi,3
+Kwun Tong,Tai Po,Bus,24
+Kwun Tong,Tai Po,PLB,8
+Kwun Tong,Tai Po,Private Vehicle,3
+Kwun Tong,Tai Po,Rail,36
+Kwun Tong,Tai Po,SPB,4
+Kwun Tong,Tin Shui Wai,Bus,6
+Kwun Tong,Tin Shui Wai,PLB,2
+Kwun Tong,Tin Shui Wai,Rail,1
+Kwun Tong,Tseung Kwan O,Bus,80
+Kwun Tong,Tseung Kwan O,PLB,63
+Kwun Tong,Tseung Kwan O,Private Vehicle,22
+Kwun Tong,Tseung Kwan O,Rail,324
+Kwun Tong,Tseung Kwan O,SPB,19
+Kwun Tong,Tseung Kwan O,Taxi,4
+Kwun Tong,Tsing Yi,Bus,18
+Kwun Tong,Tsing Yi,PLB,7
+Kwun Tong,Tsing Yi,Private Vehicle,1
+Kwun Tong,Tsing Yi,Rail,34
+Kwun Tong,Tsing Yi,SPB,3
+Kwun Tong,Tsing Yi,Taxi,1
+Kwun Tong,Tsuen Wan,Bus,36
+Kwun Tong,Tsuen Wan,PLB,43
+Kwun Tong,Tsuen Wan,Private Vehicle,7
+Kwun Tong,Tsuen Wan,Rail,76
+Kwun Tong,Tsuen Wan,Taxi,2
+Kwun Tong,Tuen Mun,Bus,35
+Kwun Tong,Tuen Mun,PLB,14
+Kwun Tong,Tuen Mun,Private Vehicle,2
+Kwun Tong,Tuen Mun,Rail,7
+Kwun Tong,Tuen Mun,SPB,3
+Kwun Tong,Wan Chai,Bus,264
+Kwun Tong,Wan Chai,Ferry,6
+Kwun Tong,Wan Chai,PLB,24
+Kwun Tong,Wan Chai,Private Vehicle,22
+Kwun Tong,Wan Chai,Rail,383
+Kwun Tong,Wan Chai,SPB,13
+Kwun Tong,Wan Chai,Taxi,9
+Kwun Tong,Wan Chai,Tram,3
+Kwun Tong,Wong Tai Sin,Bus,198
+Kwun Tong,Wong Tai Sin,PLB,77
+Kwun Tong,Wong Tai Sin,Private Vehicle,8
+Kwun Tong,Wong Tai Sin,Rail,222
+Kwun Tong,Wong Tai Sin,SPB,35
+Kwun Tong,Wong Tai Sin,Taxi,7
+Kwun Tong,Yau Ma Tei,Bus,366
+Kwun Tong,Yau Ma Tei,PLB,70
+Kwun Tong,Yau Ma Tei,Private Vehicle,41
+Kwun Tong,Yau Ma Tei,Rail,353
+Kwun Tong,Yau Ma Tei,SPB,6
+Kwun Tong,Yau Ma Tei,Taxi,22
+Kwun Tong,Yuen Long,Bus,20
+Kwun Tong,Yuen Long,PLB,10
+Kwun Tong,Yuen Long,Private Vehicle,14
+Kwun Tong,Yuen Long,Rail,3
+Ma On Shan,Central & Western,Bus,81
+Ma On Shan,Central & Western,PLB,7
+Ma On Shan,Central & Western,Private Vehicle,6
+Ma On Shan,Central & Western,Rail,127
+Ma On Shan,Central & Western,Taxi,2
+Ma On Shan,Eastern,Bus,82
+Ma On Shan,Eastern,Private Vehicle,7
+Ma On Shan,Eastern,Rail,49
+Ma On Shan,Fanling / Sheung Shui,Bus,4
+Ma On Shan,Fanling / Sheung Shui,Private Vehicle,4
+Ma On Shan,Fanling / Sheung Shui,Rail,52
+Ma On Shan,Kowloon City,Bus,57
+Ma On Shan,Kowloon City,PLB,3
+Ma On Shan,Kowloon City,Private Vehicle,40
+Ma On Shan,Kowloon City,Rail,95
+Ma On Shan,Kowloon City,SPB,30
+Ma On Shan,Kowloon City,Taxi,2
+Ma On Shan,Kwai Chung,Bus,89
+Ma On Shan,Kwai Chung,Private Vehicle,13
+Ma On Shan,Kwai Chung,Rail,24
+Ma On Shan,Kwai Chung,SPB,1
+Ma On Shan,Kwun Tong,Bus,224
+Ma On Shan,Kwun Tong,PLB,15
+Ma On Shan,Kwun Tong,Private Vehicle,27
+Ma On Shan,Kwun Tong,Rail,46
+Ma On Shan,Kwun Tong,Taxi,1
+Ma On Shan,Ma On Shan,Bus,79
+Ma On Shan,Ma On Shan,PLB,107
+Ma On Shan,Ma On Shan,Private Vehicle,42
+Ma On Shan,Ma On Shan,Rail,141
+Ma On Shan,Ma On Shan,SPB,163
+Ma On Shan,Ma On Shan,Taxi,18
+Ma On Shan,Mong Kok,Bus,104
+Ma On Shan,Mong Kok,PLB,8
+Ma On Shan,Mong Kok,Private Vehicle,6
+Ma On Shan,Mong Kok,Rail,86
+Ma On Shan,Mong Kok,SPB,2
+Ma On Shan,Mong Kok,Taxi,1
+Ma On Shan,North Lantau,Bus,30
+Ma On Shan,North Lantau,PLB,1
+Ma On Shan,North Lantau,Rail,12
+Ma On Shan,North Lantau,SPB,14
+Ma On Shan,North Lantau,Taxi,4
+Ma On Shan,Rural NENT,Bus,3
+Ma On Shan,Rural NENT,Rail,35
+Ma On Shan,Rural NWNT,Bus,2
+Ma On Shan,Rural NWNT,PLB,6
+Ma On Shan,Rural NWNT,Private Vehicle,6
+Ma On Shan,Rural NWNT,Rail,13
+Ma On Shan,Rural NWNT,Taxi,3
+Ma On Shan,Rural SENT,Bus,24
+Ma On Shan,Rural SENT,PLB,8
+Ma On Shan,Rural SENT,Private Vehicle,14
+Ma On Shan,Rural SENT,SPB,4
+Ma On Shan,Rural SWNT,Bus,2
+Ma On Shan,Rural SWNT,PLB,1
+Ma On Shan,Sha Tin,Bus,263
+Ma On Shan,Sha Tin,PLB,170
+Ma On Shan,Sha Tin,Private Vehicle,82
+Ma On Shan,Sha Tin,Rail,440
+Ma On Shan,Sha Tin,SPB,77
+Ma On Shan,Sha Tin,Taxi,5
+Ma On Shan,Sham Shui Po,Bus,75
+Ma On Shan,Sham Shui Po,PLB,2
+Ma On Shan,Sham Shui Po,Private Vehicle,29
+Ma On Shan,Sham Shui Po,Rail,96
+Ma On Shan,Sham Shui Po,SPB,11
+Ma On Shan,Sham Shui Po,Taxi,2
+Ma On Shan,Southern,Bus,14
+Ma On Shan,Southern,Private Vehicle,6
+Ma On Shan,Southern,Rail,14
+Ma On Shan,Tai Po,Bus,27
+Ma On Shan,Tai Po,PLB,29
+Ma On Shan,Tai Po,Private Vehicle,25
+Ma On Shan,Tai Po,Rail,54
+Ma On Shan,Tai Po,SPB,2
+Ma On Shan,Tai Po,Taxi,2
+Ma On Shan,Tseung Kwan O,PLB,4
+Ma On Shan,Tseung Kwan O,Private Vehicle,5
+Ma On Shan,Tseung Kwan O,Rail,28
+Ma On Shan,Tseung Kwan O,SPB,2
+Ma On Shan,Tsing Yi,Bus,2
+Ma On Shan,Tsing Yi,PLB,1
+Ma On Shan,Tsing Yi,Private Vehicle,8
+Ma On Shan,Tsing Yi,Rail,7
+Ma On Shan,Tsuen Wan,Bus,78
+Ma On Shan,Tsuen Wan,PLB,2
+Ma On Shan,Tsuen Wan,Private Vehicle,16
+Ma On Shan,Tsuen Wan,Rail,7
+Ma On Shan,Tsuen Wan,SPB,1
+Ma On Shan,Tuen Mun,Bus,14
+Ma On Shan,Tuen Mun,Private Vehicle,2
+Ma On Shan,Tuen Mun,Rail,7
+Ma On Shan,Wan Chai,Bus,99
+Ma On Shan,Wan Chai,PLB,4
+Ma On Shan,Wan Chai,Private Vehicle,8
+Ma On Shan,Wan Chai,Rail,53
+Ma On Shan,Wan Chai,SPB,1
+Ma On Shan,Wan Chai,Taxi,1
+Ma On Shan,Wan Chai,Tram,4
+Ma On Shan,Wong Tai Sin,Bus,63
+Ma On Shan,Wong Tai Sin,PLB,3
+Ma On Shan,Wong Tai Sin,Private Vehicle,15
+Ma On Shan,Wong Tai Sin,Rail,10
+Ma On Shan,Wong Tai Sin,SPB,14
+Ma On Shan,Wong Tai Sin,Taxi,1
+Ma On Shan,Yau Ma Tei,Bus,111
+Ma On Shan,Yau Ma Tei,PLB,2
+Ma On Shan,Yau Ma Tei,Private Vehicle,26
+Ma On Shan,Yau Ma Tei,Rail,111
+Ma On Shan,Yau Ma Tei,SPB,1
+Ma On Shan,Yau Ma Tei,Taxi,4
+Ma On Shan,Yuen Long,Rail,10
+Ma On Shan,Yuen Long,SPB,2
+Mong Kok,Central & Western,Bus,37
+Mong Kok,Central & Western,Ferry,2
+Mong Kok,Central & Western,PLB,3
+Mong Kok,Central & Western,Private Vehicle,4
+Mong Kok,Central & Western,Rail,131
+Mong Kok,Central & Western,SPB,1
+Mong Kok,Eastern,Bus,15
+Mong Kok,Eastern,Private Vehicle,2
+Mong Kok,Eastern,Rail,69
+Mong Kok,Fanling / Sheung Shui,Private Vehicle,2
+Mong Kok,Fanling / Sheung Shui,Rail,16
+Mong Kok,Kowloon City,Bus,48
+Mong Kok,Kowloon City,PLB,30
+Mong Kok,Kowloon City,Private Vehicle,13
+Mong Kok,Kowloon City,Rail,33
+Mong Kok,Kowloon City,SPB,2
+Mong Kok,Kowloon City,Taxi,15
+Mong Kok,Kwai Chung,Bus,5
+Mong Kok,Kwai Chung,PLB,6
+Mong Kok,Kwai Chung,Private Vehicle,1
+Mong Kok,Kwai Chung,Rail,56
+Mong Kok,Kwai Chung,Taxi,1
+Mong Kok,Kwun Tong,Bus,10
+Mong Kok,Kwun Tong,PLB,10
+Mong Kok,Kwun Tong,Private Vehicle,4
+Mong Kok,Kwun Tong,Rail,102
+Mong Kok,Kwun Tong,SPB,2
+Mong Kok,Kwun Tong,Taxi,2
+Mong Kok,Ma On Shan,Rail,3
+Mong Kok,Mong Kok,Bus,23
+Mong Kok,Mong Kok,PLB,52
+Mong Kok,Mong Kok,Private Vehicle,7
+Mong Kok,Mong Kok,Rail,9
+Mong Kok,Mong Kok,SPB,4
+Mong Kok,Mong Kok,Taxi,11
+Mong Kok,North Lantau,Private Vehicle,2
+Mong Kok,North Lantau,Rail,7
+Mong Kok,North Lantau,SPB,1
+Mong Kok,North Lantau,Taxi,1
+Mong Kok,Rural NENT,Rail,23
+Mong Kok,Rural NWNT,Rail,6
+Mong Kok,Rural NWNT,SPB,2
+Mong Kok,Rural NWNT,Taxi,2
+Mong Kok,Rural SENT,PLB,2
+Mong Kok,Rural SENT,Private Vehicle,2
+Mong Kok,Rural SWNT,SPB,1
+Mong Kok,Sha Tin,Bus,9
+Mong Kok,Sha Tin,Private Vehicle,5
+Mong Kok,Sha Tin,Rail,47
+Mong Kok,Sham Shui Po,Bus,48
+Mong Kok,Sham Shui Po,PLB,18
+Mong Kok,Sham Shui Po,Private Vehicle,11
+Mong Kok,Sham Shui Po,Rail,121
+Mong Kok,Sham Shui Po,SPB,14
+Mong Kok,Sham Shui Po,Taxi,7
+Mong Kok,Southern,Bus,18
+Mong Kok,Southern,PLB,2
+Mong Kok,Southern,Rail,3
+Mong Kok,Tai Po,Bus,2
+Mong Kok,Tai Po,Rail,24
+Mong Kok,Tin Shui Wai,Bus,3
+Mong Kok,Tin Shui Wai,PLB,2
+Mong Kok,Tin Shui Wai,Rail,1
+Mong Kok,Tseung Kwan O,Rail,24
+Mong Kok,Tsing Yi,Bus,2
+Mong Kok,Tsing Yi,Private Vehicle,1
+Mong Kok,Tsing Yi,Rail,14
+Mong Kok,Tsuen Wan,Bus,15
+Mong Kok,Tsuen Wan,PLB,6
+Mong Kok,Tsuen Wan,Private Vehicle,5
+Mong Kok,Tsuen Wan,Rail,53
+Mong Kok,Tsuen Wan,Taxi,1
+Mong Kok,Tuen Mun,Bus,15
+Mong Kok,Wan Chai,Bus,32
+Mong Kok,Wan Chai,Private Vehicle,4
+Mong Kok,Wan Chai,Rail,95
+Mong Kok,Wan Chai,SPB,1
+Mong Kok,Wong Tai Sin,Bus,15
+Mong Kok,Wong Tai Sin,PLB,3
+Mong Kok,Wong Tai Sin,Private Vehicle,2
+Mong Kok,Wong Tai Sin,Rail,45
+Mong Kok,Wong Tai Sin,Taxi,1
+Mong Kok,Yau Ma Tei,Bus,57
+Mong Kok,Yau Ma Tei,PLB,34
+Mong Kok,Yau Ma Tei,Private Vehicle,8
+Mong Kok,Yau Ma Tei,Rail,247
+Mong Kok,Yau Ma Tei,SPB,4
+Mong Kok,Yau Ma Tei,Taxi,14
+Mong Kok,Yuen Long,Bus,2
+Mong Kok,Yuen Long,Rail,4
+North Lantau,Central & Western,Bus,8
+North Lantau,Central & Western,Ferry,35
+North Lantau,Central & Western,Private Vehicle,7
+North Lantau,Central & Western,Rail,114
+North Lantau,Central & Western,SPB,4
+North Lantau,Central & Western,Taxi,2
+North Lantau,Eastern,Bus,3
+North Lantau,Eastern,Ferry,1
+North Lantau,Eastern,Rail,51
+North Lantau,Eastern,SPB,2
+North Lantau,Eastern,Tram,1
+North Lantau,Fanling / Sheung Shui,Private Vehicle,2
+North Lantau,Fanling / Sheung Shui,Rail,2
+North Lantau,Kowloon City,Bus,23
+North Lantau,Kowloon City,PLB,4
+North Lantau,Kowloon City,Private Vehicle,4
+North Lantau,Kowloon City,Rail,44
+North Lantau,Kowloon City,SPB,2
+North Lantau,Kwai Chung,Bus,12
+North Lantau,Kwai Chung,Ferry,2
+North Lantau,Kwai Chung,PLB,4
+North Lantau,Kwai Chung,Rail,54
+North Lantau,Kwai Chung,SPB,15
+North Lantau,Kwai Chung,Taxi,2
+North Lantau,Kwun Tong,Bus,24
+North Lantau,Kwun Tong,Ferry,1
+North Lantau,Kwun Tong,PLB,2
+North Lantau,Kwun Tong,Private Vehicle,2
+North Lantau,Kwun Tong,Rail,56
+North Lantau,Ma On Shan,Bus,2
+North Lantau,Ma On Shan,Private Vehicle,5
+North Lantau,Ma On Shan,SPB,2
+North Lantau,Mong Kok,Bus,27
+North Lantau,Mong Kok,Private Vehicle,6
+North Lantau,Mong Kok,Rail,43
+North Lantau,North Lantau,Bus,372
+North Lantau,North Lantau,PLB,4
+North Lantau,North Lantau,Private Vehicle,9
+North Lantau,North Lantau,Rail,16
+North Lantau,North Lantau,SPB,57
+North Lantau,North Lantau,Taxi,6
+North Lantau,Rural NENT,PLB,2
+North Lantau,Rural NENT,Rail,9
+North Lantau,Rural NWNT,Bus,4
+North Lantau,Rural NWNT,PLB,2
+North Lantau,Rural NWNT,Private Vehicle,2
+North Lantau,Rural NWNT,Rail,3
+North Lantau,Rural NWNT,SPB,4
+North Lantau,Rural SENT,Bus,2
+North Lantau,Rural SWNT,Bus,18
+North Lantau,Rural SWNT,Rail,1
+North Lantau,Rural SWNT,Taxi,2
+North Lantau,Sha Tin,Bus,25
+North Lantau,Sha Tin,PLB,1
+North Lantau,Sha Tin,Private Vehicle,5
+North Lantau,Sha Tin,Rail,10
+North Lantau,Sha Tin,SPB,4
+North Lantau,Sham Shui Po,Bus,26
+North Lantau,Sham Shui Po,Private Vehicle,4
+North Lantau,Sham Shui Po,Rail,70
+North Lantau,Southern,Bus,4
+North Lantau,Southern,Ferry,2
+North Lantau,Southern,PLB,2
+North Lantau,Southern,Rail,24
+North Lantau,Tai Po,Bus,4
+North Lantau,Tai Po,Rail,4
+North Lantau,Tin Shui Wai,Bus,3
+North Lantau,Tin Shui Wai,Rail,4
+North Lantau,Tseung Kwan O,Bus,3
+North Lantau,Tseung Kwan O,Private Vehicle,1
+North Lantau,Tseung Kwan O,Rail,3
+North Lantau,Tsing Yi,Bus,12
+North Lantau,Tsing Yi,Rail,37
+North Lantau,Tsing Yi,SPB,34
+North Lantau,Tsing Yi,Taxi,2
+North Lantau,Tsuen Wan,Bus,46
+North Lantau,Tsuen Wan,Ferry,22
+North Lantau,Tsuen Wan,PLB,4
+North Lantau,Tsuen Wan,Rail,30
+North Lantau,Tsuen Wan,SPB,23
+North Lantau,Tsuen Wan,Taxi,1
+North Lantau,Tuen Mun,Bus,15
+North Lantau,Tuen Mun,LRT,2
+North Lantau,Tuen Mun,Private Vehicle,1
+North Lantau,Tuen Mun,Rail,1
+North Lantau,Wan Chai,Bus,7
+North Lantau,Wan Chai,Ferry,11
+North Lantau,Wan Chai,PLB,1
+North Lantau,Wan Chai,Rail,84
+North Lantau,Wan Chai,SPB,3
+North Lantau,Wan Chai,Taxi,1
+North Lantau,Wan Chai,Tram,3
+North Lantau,Wong Tai Sin,PLB,1
+North Lantau,Wong Tai Sin,Private Vehicle,1
+North Lantau,Wong Tai Sin,Rail,9
+North Lantau,Yau Ma Tei,Bus,19
+North Lantau,Yau Ma Tei,Private Vehicle,5
+North Lantau,Yau Ma Tei,Rail,114
+North Lantau,Yau Ma Tei,SPB,5
+North Lantau,Yau Ma Tei,Taxi,5
+North Lantau,Yuen Long,Bus,6
+North Lantau,Yuen Long,Rail,3
+Rural NENT,Central & Western,Bus,4
+Rural NENT,Central & Western,Private Vehicle,10
+Rural NENT,Central & Western,Rail,16
+Rural NENT,Central & Western,SPB,5
+Rural NENT,Eastern,Bus,5
+Rural NENT,Eastern,PLB,1
+Rural NENT,Eastern,Private Vehicle,2
+Rural NENT,Eastern,Rail,13
+Rural NENT,Fanling / Sheung Shui,Bus,51
+Rural NENT,Fanling / Sheung Shui,PLB,208
+Rural NENT,Fanling / Sheung Shui,Private Vehicle,49
+Rural NENT,Fanling / Sheung Shui,Rail,28
+Rural NENT,Fanling / Sheung Shui,SPB,35
+Rural NENT,Fanling / Sheung Shui,Taxi,4
+Rural NENT,Kowloon City,Private Vehicle,12
+Rural NENT,Kowloon City,Rail,23
+Rural NENT,Kowloon City,SPB,2
+Rural NENT,Kowloon City,Taxi,1
+Rural NENT,Kwai Chung,Bus,4
+Rural NENT,Kwai Chung,PLB,4
+Rural NENT,Kwai Chung,Private Vehicle,12
+Rural NENT,Kwai Chung,Rail,2
+Rural NENT,Kwun Tong,Bus,7
+Rural NENT,Kwun Tong,PLB,16
+Rural NENT,Kwun Tong,Private Vehicle,16
+Rural NENT,Kwun Tong,Rail,23
+Rural NENT,Ma On Shan,Rail,8
+Rural NENT,Ma On Shan,SPB,1
+Rural NENT,Mong Kok,Bus,3
+Rural NENT,Mong Kok,PLB,6
+Rural NENT,Mong Kok,Private Vehicle,19
+Rural NENT,Mong Kok,Rail,37
+Rural NENT,North Lantau,Rail,1
+Rural NENT,Rural NENT,Bus,4
+Rural NENT,Rural NENT,PLB,5
+Rural NENT,Rural NENT,Private Vehicle,16
+Rural NENT,Rural NENT,Rail,10
+Rural NENT,Rural NENT,SPB,4
+Rural NENT,Rural NWNT,Bus,2
+Rural NENT,Rural NWNT,Private Vehicle,10
+Rural NENT,Rural NWNT,Rail,1
+Rural NENT,Rural SENT,Private Vehicle,2
+Rural NENT,Rural SWNT,Rail,1
+Rural NENT,Sha Tin,Bus,3
+Rural NENT,Sha Tin,PLB,3
+Rural NENT,Sha Tin,Private Vehicle,22
+Rural NENT,Sha Tin,Rail,68
+Rural NENT,Sha Tin,SPB,6
+Rural NENT,Sham Shui Po,Bus,6
+Rural NENT,Sham Shui Po,PLB,3
+Rural NENT,Sham Shui Po,Private Vehicle,16
+Rural NENT,Sham Shui Po,Rail,28
+Rural NENT,Southern,Private Vehicle,2
+Rural NENT,Southern,Rail,2
+Rural NENT,Tai Po,Bus,77
+Rural NENT,Tai Po,PLB,149
+Rural NENT,Tai Po,Private Vehicle,105
+Rural NENT,Tai Po,Rail,22
+Rural NENT,Tai Po,SPB,42
+Rural NENT,Tai Po,Taxi,3
+Rural NENT,Tin Shui Wai,Bus,2
+Rural NENT,Tin Shui Wai,PLB,1
+Rural NENT,Tseung Kwan O,Private Vehicle,2
+Rural NENT,Tseung Kwan O,Rail,8
+Rural NENT,Tsing Yi,PLB,2
+Rural NENT,Tsing Yi,Rail,3
+Rural NENT,Tsuen Wan,Private Vehicle,12
+Rural NENT,Tsuen Wan,Rail,6
+Rural NENT,Tsuen Wan,SPB,1
+Rural NENT,Tuen Mun,Bus,2
+Rural NENT,Tuen Mun,Private Vehicle,9
+Rural NENT,Wan Chai,Bus,2
+Rural NENT,Wan Chai,PLB,2
+Rural NENT,Wan Chai,Private Vehicle,4
+Rural NENT,Wan Chai,Rail,19
+Rural NENT,Wan Chai,SPB,3
+Rural NENT,Wong Tai Sin,Bus,6
+Rural NENT,Wong Tai Sin,PLB,3
+Rural NENT,Wong Tai Sin,Private Vehicle,2
+Rural NENT,Wong Tai Sin,Rail,6
+Rural NENT,Yau Ma Tei,Bus,2
+Rural NENT,Yau Ma Tei,PLB,2
+Rural NENT,Yau Ma Tei,Private Vehicle,24
+Rural NENT,Yau Ma Tei,Rail,64
+Rural NENT,Yau Ma Tei,SPB,1
+Rural NENT,Yau Ma Tei,Taxi,1
+Rural NENT,Yuen Long,Bus,1
+Rural NENT,Yuen Long,PLB,2
+Rural NENT,Yuen Long,Private Vehicle,8
+Rural NENT,Yuen Long,SPB,1
+Rural NWNT,Central & Western,Bus,20
+Rural NWNT,Central & Western,LRT,3
+Rural NWNT,Central & Western,PLB,14
+Rural NWNT,Central & Western,Private Vehicle,20
+Rural NWNT,Central & Western,Rail,46
+Rural NWNT,Central & Western,SPB,21
+Rural NWNT,Eastern,Bus,2
+Rural NWNT,Eastern,PLB,3
+Rural NWNT,Eastern,Private Vehicle,6
+Rural NWNT,Eastern,Rail,22
+Rural NWNT,Eastern,SPB,4
+Rural NWNT,Eastern,Taxi,1
+Rural NWNT,Fanling / Sheung Shui,Bus,7
+Rural NWNT,Fanling / Sheung Shui,LRT,2
+Rural NWNT,Fanling / Sheung Shui,PLB,38
+Rural NWNT,Fanling / Sheung Shui,Private Vehicle,37
+Rural NWNT,Fanling / Sheung Shui,Rail,4
+Rural NWNT,Fanling / Sheung Shui,SPB,15
+Rural NWNT,Kowloon City,Bus,1
+Rural NWNT,Kowloon City,PLB,5
+Rural NWNT,Kowloon City,Private Vehicle,31
+Rural NWNT,Kowloon City,Rail,21
+Rural NWNT,Kwai Chung,Bus,10
+Rural NWNT,Kwai Chung,PLB,9
+Rural NWNT,Kwai Chung,Private Vehicle,11
+Rural NWNT,Kwai Chung,Rail,28
+Rural NWNT,Kwun Tong,Bus,13
+Rural NWNT,Kwun Tong,LRT,1
+Rural NWNT,Kwun Tong,PLB,6
+Rural NWNT,Kwun Tong,Private Vehicle,14
+Rural NWNT,Kwun Tong,Rail,15
+Rural NWNT,Kwun Tong,SPB,1
+Rural NWNT,Ma On Shan,Rail,3
+Rural NWNT,Ma On Shan,SPB,1
+Rural NWNT,Mong Kok,Bus,20
+Rural NWNT,Mong Kok,PLB,12
+Rural NWNT,Mong Kok,Private Vehicle,17
+Rural NWNT,Mong Kok,Rail,27
+Rural NWNT,Mong Kok,SPB,1
+Rural NWNT,North Lantau,Bus,21
+Rural NWNT,North Lantau,LRT,7
+Rural NWNT,North Lantau,PLB,8
+Rural NWNT,North Lantau,Private Vehicle,14
+Rural NWNT,North Lantau,Rail,2
+Rural NWNT,North Lantau,Taxi,1
+Rural NWNT,Rural NENT,Bus,2
+Rural NWNT,Rural NENT,PLB,2
+Rural NWNT,Rural NENT,Rail,11
+Rural NWNT,Rural NWNT,Bus,22
+Rural NWNT,Rural NWNT,LRT,36
+Rural NWNT,Rural NWNT,PLB,51
+Rural NWNT,Rural NWNT,Private Vehicle,79
+Rural NWNT,Rural NWNT,Rail,13
+Rural NWNT,Rural NWNT,SPB,25
+Rural NWNT,Rural NWNT,Taxi,2
+Rural NWNT,Sha Tin,Bus,9
+Rural NWNT,Sha Tin,LRT,4
+Rural NWNT,Sha Tin,PLB,6
+Rural NWNT,Sha Tin,Private Vehicle,18
+Rural NWNT,Sha Tin,Rail,29
+Rural NWNT,Sha Tin,SPB,6
+Rural NWNT,Sham Shui Po,Bus,10
+Rural NWNT,Sham Shui Po,PLB,3
+Rural NWNT,Sham Shui Po,Private Vehicle,17
+Rural NWNT,Sham Shui Po,Rail,61
+Rural NWNT,Sham Shui Po,SPB,2
+Rural NWNT,Southern,PLB,2
+Rural NWNT,Southern,Rail,8
+Rural NWNT,Tai Po,Bus,15
+Rural NWNT,Tai Po,LRT,4
+Rural NWNT,Tai Po,PLB,8
+Rural NWNT,Tai Po,Private Vehicle,15
+Rural NWNT,Tai Po,Rail,1
+Rural NWNT,Tai Po,SPB,2
+Rural NWNT,Tai Po,Taxi,1
+Rural NWNT,Tin Shui Wai,Bus,10
+Rural NWNT,Tin Shui Wai,LRT,56
+Rural NWNT,Tin Shui Wai,PLB,6
+Rural NWNT,Tin Shui Wai,Private Vehicle,29
+Rural NWNT,Tin Shui Wai,Rail,9
+Rural NWNT,Tin Shui Wai,SPB,33
+Rural NWNT,Tin Shui Wai,Taxi,3
+Rural NWNT,Tseung Kwan O,Private Vehicle,7
+Rural NWNT,Tseung Kwan O,Rail,3
+Rural NWNT,Tsing Yi,Bus,8
+Rural NWNT,Tsing Yi,PLB,3
+Rural NWNT,Tsing Yi,Private Vehicle,5
+Rural NWNT,Tsing Yi,Rail,6
+Rural NWNT,Tsuen Wan,Bus,47
+Rural NWNT,Tsuen Wan,PLB,15
+Rural NWNT,Tsuen Wan,Private Vehicle,19
+Rural NWNT,Tsuen Wan,Rail,37
+Rural NWNT,Tsuen Wan,SPB,3
+Rural NWNT,Tuen Mun,Bus,6
+Rural NWNT,Tuen Mun,LRT,145
+Rural NWNT,Tuen Mun,PLB,29
+Rural NWNT,Tuen Mun,Private Vehicle,51
+Rural NWNT,Tuen Mun,Rail,29
+Rural NWNT,Tuen Mun,SPB,23
+Rural NWNT,Tuen Mun,Taxi,7
+Rural NWNT,Wan Chai,Bus,11
+Rural NWNT,Wan Chai,PLB,2
+Rural NWNT,Wan Chai,Private Vehicle,26
+Rural NWNT,Wan Chai,Rail,32
+Rural NWNT,Wan Chai,SPB,17
+Rural NWNT,Wong Tai Sin,Bus,5
+Rural NWNT,Wong Tai Sin,PLB,3
+Rural NWNT,Wong Tai Sin,Private Vehicle,10
+Rural NWNT,Wong Tai Sin,Rail,3
+Rural NWNT,Yau Ma Tei,Bus,16
+Rural NWNT,Yau Ma Tei,PLB,2
+Rural NWNT,Yau Ma Tei,Private Vehicle,19
+Rural NWNT,Yau Ma Tei,Rail,85
+Rural NWNT,Yau Ma Tei,SPB,1
+Rural NWNT,Yau Ma Tei,Taxi,1
+Rural NWNT,Yuen Long,Bus,110
+Rural NWNT,Yuen Long,LRT,160
+Rural NWNT,Yuen Long,PLB,435
+Rural NWNT,Yuen Long,Private Vehicle,142
+Rural NWNT,Yuen Long,Rail,21
+Rural NWNT,Yuen Long,SPB,193
+Rural NWNT,Yuen Long,Taxi,17
+Rural SENT,Central & Western,PLB,2
+Rural SENT,Central & Western,Private Vehicle,19
+Rural SENT,Central & Western,Rail,24
+Rural SENT,Eastern,Private Vehicle,12
+Rural SENT,Eastern,Rail,16
+Rural SENT,Fanling / Sheung Shui,Bus,2
+Rural SENT,Fanling / Sheung Shui,Private Vehicle,8
+Rural SENT,Fanling / Sheung Shui,Rail,2
+Rural SENT,Kowloon City,Bus,4
+Rural SENT,Kowloon City,PLB,12
+Rural SENT,Kowloon City,Private Vehicle,6
+Rural SENT,Kowloon City,Rail,4
+Rural SENT,Kowloon City,SPB,4
+Rural SENT,Kwai Chung,PLB,1
+Rural SENT,Kwai Chung,Private Vehicle,1
+Rural SENT,Kwai Chung,Rail,3
+Rural SENT,Kwun Tong,Bus,14
+Rural SENT,Kwun Tong,PLB,60
+Rural SENT,Kwun Tong,Private Vehicle,56
+Rural SENT,Kwun Tong,Rail,20
+Rural SENT,Kwun Tong,SPB,5
+Rural SENT,Kwun Tong,Taxi,2
+Rural SENT,Ma On Shan,Bus,4
+Rural SENT,Ma On Shan,PLB,6
+Rural SENT,Ma On Shan,Private Vehicle,16
+Rural SENT,Ma On Shan,Taxi,2
+Rural SENT,Mong Kok,PLB,52
+Rural SENT,Mong Kok,Private Vehicle,18
+Rural SENT,Mong Kok,Rail,2
+Rural SENT,North Lantau,Bus,2
+Rural SENT,North Lantau,Private Vehicle,4
+Rural SENT,Rural NENT,Rail,2
+Rural SENT,Rural NWNT,PLB,2
+Rural SENT,Rural NWNT,Private Vehicle,2
+Rural SENT,Rural SENT,Bus,8
+Rural SENT,Rural SENT,Ferry,1
+Rural SENT,Rural SENT,PLB,148
+Rural SENT,Rural SENT,Private Vehicle,53
+Rural SENT,Rural SENT,SPB,1
+Rural SENT,Rural SENT,Taxi,3
+Rural SENT,Sha Tin,Bus,8
+Rural SENT,Sha Tin,PLB,2
+Rural SENT,Sha Tin,Private Vehicle,22
+Rural SENT,Sha Tin,Rail,10
+Rural SENT,Sha Tin,SPB,3
+Rural SENT,Sham Shui Po,PLB,2
+Rural SENT,Sham Shui Po,Private Vehicle,12
+Rural SENT,Sham Shui Po,Rail,9
+Rural SENT,Sham Shui Po,SPB,8
+Rural SENT,Sham Shui Po,Taxi,1
+Rural SENT,Southern,Private Vehicle,4
+Rural SENT,Southern,SPB,2
+Rural SENT,Tai Po,Bus,1
+Rural SENT,Tai Po,PLB,2
+Rural SENT,Tai Po,Private Vehicle,10
+Rural SENT,Tai Po,Rail,2
+Rural SENT,Tseung Kwan O,Bus,49
+Rural SENT,Tseung Kwan O,PLB,107
+Rural SENT,Tseung Kwan O,Private Vehicle,55
+Rural SENT,Tseung Kwan O,Rail,5
+Rural SENT,Tseung Kwan O,SPB,18
+Rural SENT,Tsuen Wan,Private Vehicle,6
+Rural SENT,Tuen Mun,PLB,4
+Rural SENT,Tuen Mun,Private Vehicle,1
+Rural SENT,Tuen Mun,Rail,3
+Rural SENT,Wan Chai,Bus,2
+Rural SENT,Wan Chai,PLB,3
+Rural SENT,Wan Chai,Private Vehicle,33
+Rural SENT,Wan Chai,Rail,16
+Rural SENT,Wong Tai Sin,Bus,19
+Rural SENT,Wong Tai Sin,PLB,57
+Rural SENT,Wong Tai Sin,Private Vehicle,11
+Rural SENT,Wong Tai Sin,Rail,11
+Rural SENT,Wong Tai Sin,SPB,3
+Rural SENT,Yau Ma Tei,Bus,3
+Rural SENT,Yau Ma Tei,PLB,6
+Rural SENT,Yau Ma Tei,Private Vehicle,42
+Rural SENT,Yau Ma Tei,Rail,7
+Rural SENT,Yau Ma Tei,Taxi,4
+Rural SENT,Yuen Long,PLB,4
+Rural SENT,Yuen Long,Private Vehicle,2
+Rural SWNT,Central & Western,Bus,4
+Rural SWNT,Central & Western,Ferry,111
+Rural SWNT,Central & Western,Private Vehicle,4
+Rural SWNT,Central & Western,Rail,12
+Rural SWNT,Eastern,Ferry,12
+Rural SWNT,Eastern,Rail,26
+Rural SWNT,Kowloon City,Ferry,3
+Rural SWNT,Kowloon City,Rail,4
+Rural SWNT,Kwai Chung,Bus,1
+Rural SWNT,Kwai Chung,Ferry,2
+Rural SWNT,Kwai Chung,Rail,5
+Rural SWNT,Kwun Tong,Ferry,1
+Rural SWNT,Kwun Tong,Private Vehicle,4
+Rural SWNT,Kwun Tong,Rail,3
+Rural SWNT,Ma On Shan,Rail,2
+Rural SWNT,Mong Kok,Rail,16
+Rural SWNT,Mong Kok,SPB,1
+Rural SWNT,North Lantau,Bus,69
+Rural SWNT,North Lantau,Private Vehicle,6
+Rural SWNT,North Lantau,Rail,2
+Rural SWNT,North Lantau,SPB,1
+Rural SWNT,Rural NENT,Rail,2
+Rural SWNT,Rural NWNT,Rail,2
+Rural SWNT,Rural SWNT,Bus,38
+Rural SWNT,Rural SWNT,Ferry,12
+Rural SWNT,Rural SWNT,Private Vehicle,4
+Rural SWNT,Rural SWNT,SPB,5
+Rural SWNT,Sha Tin,Ferry,4
+Rural SWNT,Sha Tin,Rail,6
+Rural SWNT,Sham Shui Po,Rail,10
+Rural SWNT,Southern,Ferry,16
+Rural SWNT,Southern,Rail,1
+Rural SWNT,Tai Po,Rail,2
+Rural SWNT,Tseung Kwan O,Rail,4
+Rural SWNT,Tsing Yi,Private Vehicle,4
+Rural SWNT,Tsing Yi,Rail,1
+Rural SWNT,Tsuen Wan,Bus,4
+Rural SWNT,Tsuen Wan,Private Vehicle,2
+Rural SWNT,Tsuen Wan,Rail,4
+Rural SWNT,Tuen Mun,Ferry,3
+Rural SWNT,Tuen Mun,Private Vehicle,2
+Rural SWNT,Wan Chai,Ferry,45
+Rural SWNT,Wan Chai,Rail,31
+Rural SWNT,Wan Chai,Tram,11
+Rural SWNT,Yau Ma Tei,Bus,1
+Rural SWNT,Yau Ma Tei,Ferry,9
+Rural SWNT,Yau Ma Tei,Rail,14
+Sha Tin,Central & Western,Bus,135
+Sha Tin,Central & Western,Ferry,2
+Sha Tin,Central & Western,PLB,3
+Sha Tin,Central & Western,Private Vehicle,21
+Sha Tin,Central & Western,Rail,294
+Sha Tin,Central & Western,SPB,14
+Sha Tin,Central & Western,Taxi,4
+Sha Tin,Eastern,Bus,51
+Sha Tin,Eastern,PLB,7
+Sha Tin,Eastern,Private Vehicle,23
+Sha Tin,Eastern,Rail,172
+Sha Tin,Eastern,SPB,4
+Sha Tin,Eastern,Taxi,4
+Sha Tin,Fanling / Sheung Shui,Bus,10
+Sha Tin,Fanling / Sheung Shui,PLB,8
+Sha Tin,Fanling / Sheung Shui,Private Vehicle,22
+Sha Tin,Fanling / Sheung Shui,Rail,97
+Sha Tin,Fanling / Sheung Shui,Taxi,1
+Sha Tin,Kowloon City,Bus,173
+Sha Tin,Kowloon City,PLB,17
+Sha Tin,Kowloon City,Private Vehicle,38
+Sha Tin,Kowloon City,Rail,285
+Sha Tin,Kowloon City,SPB,30
+Sha Tin,Kowloon City,Taxi,8
+Sha Tin,Kwai Chung,Bus,177
+Sha Tin,Kwai Chung,PLB,26
+Sha Tin,Kwai Chung,Private Vehicle,18
+Sha Tin,Kwai Chung,Rail,25
+Sha Tin,Kwai Chung,SPB,2
+Sha Tin,Kwun Tong,Bus,458
+Sha Tin,Kwun Tong,PLB,9
+Sha Tin,Kwun Tong,Private Vehicle,38
+Sha Tin,Kwun Tong,Rail,127
+Sha Tin,Kwun Tong,SPB,2
+Sha Tin,Kwun Tong,Taxi,3
+Sha Tin,Ma On Shan,Bus,45
+Sha Tin,Ma On Shan,PLB,53
+Sha Tin,Ma On Shan,Private Vehicle,12
+Sha Tin,Ma On Shan,Rail,117
+Sha Tin,Ma On Shan,SPB,15
+Sha Tin,Ma On Shan,Taxi,4
+Sha Tin,Mong Kok,Bus,151
+Sha Tin,Mong Kok,PLB,10
+Sha Tin,Mong Kok,Private Vehicle,33
+Sha Tin,Mong Kok,Rail,360
+Sha Tin,Mong Kok,SPB,3
+Sha Tin,Mong Kok,Taxi,7
+Sha Tin,North Lantau,Bus,91
+Sha Tin,North Lantau,PLB,13
+Sha Tin,North Lantau,Private Vehicle,18
+Sha Tin,North Lantau,Rail,14
+Sha Tin,North Lantau,SPB,13
+Sha Tin,North Lantau,Taxi,2
+Sha Tin,Rural NENT,Bus,1
+Sha Tin,Rural NENT,Private Vehicle,4
+Sha Tin,Rural NENT,Rail,73
+Sha Tin,Rural NENT,Taxi,2
+Sha Tin,Rural NWNT,Bus,7
+Sha Tin,Rural NWNT,Private Vehicle,10
+Sha Tin,Rural NWNT,Rail,25
+Sha Tin,Rural NWNT,SPB,6
+Sha Tin,Rural NWNT,Taxi,2
+Sha Tin,Rural SENT,Bus,11
+Sha Tin,Rural SENT,PLB,7
+Sha Tin,Rural SENT,Private Vehicle,16
+Sha Tin,Rural SENT,Rail,9
+Sha Tin,Rural SENT,SPB,7
+Sha Tin,Rural SWNT,Bus,1
+Sha Tin,Rural SWNT,Rail,6
+Sha Tin,Sha Tin,Bus,930
+Sha Tin,Sha Tin,PLB,463
+Sha Tin,Sha Tin,Private Vehicle,204
+Sha Tin,Sha Tin,Rail,650
+Sha Tin,Sha Tin,SPB,295
+Sha Tin,Sha Tin,Taxi,51
+Sha Tin,Sham Shui Po,Bus,207
+Sha Tin,Sham Shui Po,PLB,10
+Sha Tin,Sham Shui Po,Private Vehicle,41
+Sha Tin,Sham Shui Po,Rail,228
+Sha Tin,Sham Shui Po,SPB,26
+Sha Tin,Sham Shui Po,Taxi,8
+Sha Tin,Southern,Bus,16
+Sha Tin,Southern,Ferry,2
+Sha Tin,Southern,PLB,5
+Sha Tin,Southern,Private Vehicle,14
+Sha Tin,Southern,Rail,36
+Sha Tin,Tai Po,Bus,36
+Sha Tin,Tai Po,PLB,15
+Sha Tin,Tai Po,Private Vehicle,18
+Sha Tin,Tai Po,Rail,118
+Sha Tin,Tai Po,SPB,5
+Sha Tin,Tai Po,Taxi,3
+Sha Tin,Tin Shui Wai,Bus,2
+Sha Tin,Tin Shui Wai,Private Vehicle,2
+Sha Tin,Tin Shui Wai,Rail,3
+Sha Tin,Tseung Kwan O,Bus,38
+Sha Tin,Tseung Kwan O,PLB,9
+Sha Tin,Tseung Kwan O,Private Vehicle,10
+Sha Tin,Tseung Kwan O,Rail,55
+Sha Tin,Tseung Kwan O,SPB,6
+Sha Tin,Tsing Yi,Bus,37
+Sha Tin,Tsing Yi,Private Vehicle,1
+Sha Tin,Tsing Yi,Rail,9
+Sha Tin,Tsing Yi,SPB,2
+Sha Tin,Tsuen Wan,Bus,171
+Sha Tin,Tsuen Wan,PLB,24
+Sha Tin,Tsuen Wan,Private Vehicle,11
+Sha Tin,Tsuen Wan,Rail,21
+Sha Tin,Tsuen Wan,SPB,1
+Sha Tin,Tsuen Wan,Taxi,2
+Sha Tin,Tuen Mun,Bus,30
+Sha Tin,Tuen Mun,LRT,1
+Sha Tin,Tuen Mun,PLB,1
+Sha Tin,Tuen Mun,Private Vehicle,13
+Sha Tin,Tuen Mun,Rail,17
+Sha Tin,Tuen Mun,SPB,3
+Sha Tin,Wan Chai,Bus,140
+Sha Tin,Wan Chai,Ferry,3
+Sha Tin,Wan Chai,PLB,8
+Sha Tin,Wan Chai,Private Vehicle,16
+Sha Tin,Wan Chai,Rail,218
+Sha Tin,Wan Chai,SPB,6
+Sha Tin,Wan Chai,Taxi,1
+Sha Tin,Wan Chai,Tram,2
+Sha Tin,Wong Tai Sin,Bus,118
+Sha Tin,Wong Tai Sin,PLB,13
+Sha Tin,Wong Tai Sin,Private Vehicle,13
+Sha Tin,Wong Tai Sin,Rail,52
+Sha Tin,Wong Tai Sin,SPB,16
+Sha Tin,Wong Tai Sin,Taxi,1
+Sha Tin,Yau Ma Tei,Bus,179
+Sha Tin,Yau Ma Tei,PLB,11
+Sha Tin,Yau Ma Tei,Private Vehicle,38
+Sha Tin,Yau Ma Tei,Rail,378
+Sha Tin,Yau Ma Tei,SPB,11
+Sha Tin,Yau Ma Tei,Taxi,12
+Sha Tin,Yuen Long,Bus,26
+Sha Tin,Yuen Long,PLB,2
+Sha Tin,Yuen Long,Private Vehicle,2
+Sha Tin,Yuen Long,Rail,16
+Sha Tin,Yuen Long,SPB,4
+Sham Shui Po,Central & Western,Bus,68
+Sham Shui Po,Central & Western,Ferry,1
+Sham Shui Po,Central & Western,PLB,4
+Sham Shui Po,Central & Western,Private Vehicle,5
+Sham Shui Po,Central & Western,Rail,451
+Sham Shui Po,Central & Western,SPB,4
+Sham Shui Po,Central & Western,Taxi,2
+Sham Shui Po,Eastern,Bus,22
+Sham Shui Po,Eastern,PLB,1
+Sham Shui Po,Eastern,Private Vehicle,1
+Sham Shui Po,Eastern,Rail,184
+Sham Shui Po,Eastern,SPB,2
+Sham Shui Po,Eastern,Taxi,1
+Sham Shui Po,Fanling / Sheung Shui,Bus,1
+Sham Shui Po,Fanling / Sheung Shui,Rail,22
+Sham Shui Po,Kowloon City,Bus,150
+Sham Shui Po,Kowloon City,PLB,67
+Sham Shui Po,Kowloon City,Private Vehicle,90
+Sham Shui Po,Kowloon City,Rail,125
+Sham Shui Po,Kowloon City,SPB,67
+Sham Shui Po,Kowloon City,Taxi,22
+Sham Shui Po,Kwai Chung,Bus,67
+Sham Shui Po,Kwai Chung,PLB,34
+Sham Shui Po,Kwai Chung,Private Vehicle,20
+Sham Shui Po,Kwai Chung,Rail,201
+Sham Shui Po,Kwai Chung,SPB,3
+Sham Shui Po,Kwai Chung,Taxi,17
+Sham Shui Po,Kwun Tong,Bus,32
+Sham Shui Po,Kwun Tong,PLB,36
+Sham Shui Po,Kwun Tong,Private Vehicle,31
+Sham Shui Po,Kwun Tong,Rail,287
+Sham Shui Po,Kwun Tong,SPB,2
+Sham Shui Po,Kwun Tong,Taxi,5
+Sham Shui Po,Ma On Shan,Bus,7
+Sham Shui Po,Ma On Shan,Private Vehicle,1
+Sham Shui Po,Ma On Shan,Rail,11
+Sham Shui Po,Mong Kok,Bus,194
+Sham Shui Po,Mong Kok,PLB,29
+Sham Shui Po,Mong Kok,Private Vehicle,36
+Sham Shui Po,Mong Kok,Rail,353
+Sham Shui Po,Mong Kok,SPB,11
+Sham Shui Po,Mong Kok,Taxi,16
+Sham Shui Po,North Lantau,Bus,30
+Sham Shui Po,North Lantau,PLB,1
+Sham Shui Po,North Lantau,Private Vehicle,4
+Sham Shui Po,North Lantau,Rail,43
+Sham Shui Po,North Lantau,SPB,10
+Sham Shui Po,North Lantau,Taxi,1
+Sham Shui Po,Rural NENT,Bus,1
+Sham Shui Po,Rural NENT,Rail,46
+Sham Shui Po,Rural NWNT,Bus,5
+Sham Shui Po,Rural NWNT,PLB,2
+Sham Shui Po,Rural NWNT,Private Vehicle,2
+Sham Shui Po,Rural NWNT,Rail,16
+Sham Shui Po,Rural NWNT,SPB,3
+Sham Shui Po,Rural NWNT,Taxi,1
+Sham Shui Po,Rural SENT,PLB,4
+Sham Shui Po,Rural SENT,Private Vehicle,9
+Sham Shui Po,Rural SENT,Rail,13
+Sham Shui Po,Rural SWNT,Private Vehicle,2
+Sham Shui Po,Rural SWNT,Rail,7
+Sham Shui Po,Sha Tin,Bus,63
+Sham Shui Po,Sha Tin,PLB,1
+Sham Shui Po,Sha Tin,Private Vehicle,14
+Sham Shui Po,Sha Tin,Rail,133
+Sham Shui Po,Sha Tin,SPB,3
+Sham Shui Po,Sha Tin,Taxi,2
+Sham Shui Po,Sham Shui Po,Bus,320
+Sham Shui Po,Sham Shui Po,PLB,221
+Sham Shui Po,Sham Shui Po,Private Vehicle,70
+Sham Shui Po,Sham Shui Po,Rail,390
+Sham Shui Po,Sham Shui Po,SPB,110
+Sham Shui Po,Sham Shui Po,Taxi,26
+Sham Shui Po,Southern,Bus,20
+Sham Shui Po,Southern,PLB,5
+Sham Shui Po,Southern,Private Vehicle,1
+Sham Shui Po,Southern,Rail,24
+Sham Shui Po,Tai Po,Bus,17
+Sham Shui Po,Tai Po,PLB,4
+Sham Shui Po,Tai Po,Private Vehicle,5
+Sham Shui Po,Tai Po,Rail,34
+Sham Shui Po,Tai Po,SPB,4
+Sham Shui Po,Tin Shui Wai,Bus,5
+Sham Shui Po,Tin Shui Wai,Private Vehicle,6
+Sham Shui Po,Tin Shui Wai,Rail,8
+Sham Shui Po,Tin Shui Wai,SPB,1
+Sham Shui Po,Tseung Kwan O,Bus,13
+Sham Shui Po,Tseung Kwan O,Private Vehicle,10
+Sham Shui Po,Tseung Kwan O,Rail,68
+Sham Shui Po,Tseung Kwan O,SPB,7
+Sham Shui Po,Tsing Yi,Bus,23
+Sham Shui Po,Tsing Yi,PLB,4
+Sham Shui Po,Tsing Yi,Private Vehicle,4
+Sham Shui Po,Tsing Yi,Rail,53
+Sham Shui Po,Tsing Yi,SPB,1
+Sham Shui Po,Tsuen Wan,Bus,46
+Sham Shui Po,Tsuen Wan,PLB,2
+Sham Shui Po,Tsuen Wan,Private Vehicle,20
+Sham Shui Po,Tsuen Wan,Rail,157
+Sham Shui Po,Tuen Mun,Bus,38
+Sham Shui Po,Tuen Mun,Private Vehicle,5
+Sham Shui Po,Tuen Mun,Rail,31
+Sham Shui Po,Wan Chai,Bus,40
+Sham Shui Po,Wan Chai,Ferry,2
+Sham Shui Po,Wan Chai,PLB,6
+Sham Shui Po,Wan Chai,Private Vehicle,14
+Sham Shui Po,Wan Chai,Rail,299
+Sham Shui Po,Wan Chai,SPB,4
+Sham Shui Po,Wan Chai,Taxi,5
+Sham Shui Po,Wong Tai Sin,Bus,22
+Sham Shui Po,Wong Tai Sin,PLB,9
+Sham Shui Po,Wong Tai Sin,Private Vehicle,12
+Sham Shui Po,Wong Tai Sin,Rail,104
+Sham Shui Po,Wong Tai Sin,SPB,7
+Sham Shui Po,Wong Tai Sin,Taxi,1
+Sham Shui Po,Yau Ma Tei,Bus,177
+Sham Shui Po,Yau Ma Tei,PLB,21
+Sham Shui Po,Yau Ma Tei,Private Vehicle,40
+Sham Shui Po,Yau Ma Tei,Rail,469
+Sham Shui Po,Yau Ma Tei,SPB,10
+Sham Shui Po,Yau Ma Tei,Taxi,18
+Sham Shui Po,Yuen Long,Bus,5
+Sham Shui Po,Yuen Long,PLB,2
+Sham Shui Po,Yuen Long,Private Vehicle,1
+Sham Shui Po,Yuen Long,Rail,23
+Southern,Central & Western,Bus,682
+Southern,Central & Western,PLB,126
+Southern,Central & Western,Private Vehicle,94
+Southern,Central & Western,Rail,13
+Southern,Central & Western,SPB,65
+Southern,Central & Western,Taxi,53
+Southern,Central & Western,Tram,4
+Southern,Eastern,Bus,253
+Southern,Eastern,PLB,43
+Southern,Eastern,Private Vehicle,50
+Southern,Eastern,Rail,85
+Southern,Eastern,SPB,21
+Southern,Eastern,Taxi,13
+Southern,Eastern,Tram,8
+Southern,Fanling / Sheung Shui,Private Vehicle,2
+Southern,Fanling / Sheung Shui,Rail,2
+Southern,Kowloon City,Bus,96
+Southern,Kowloon City,PLB,13
+Southern,Kowloon City,Private Vehicle,13
+Southern,Kowloon City,Rail,8
+Southern,Kowloon City,SPB,3
+Southern,Kowloon City,Taxi,1
+Southern,Kwai Chung,Bus,22
+Southern,Kwai Chung,Private Vehicle,7
+Southern,Kwai Chung,Rail,45
+Southern,Kwun Tong,Bus,58
+Southern,Kwun Tong,Ferry,2
+Southern,Kwun Tong,PLB,5
+Southern,Kwun Tong,Private Vehicle,11
+Southern,Kwun Tong,Rail,48
+Southern,Kwun Tong,Taxi,1
+Southern,Ma On Shan,Rail,4
+Southern,Mong Kok,Bus,71
+Southern,Mong Kok,PLB,14
+Southern,Mong Kok,Private Vehicle,4
+Southern,Mong Kok,Rail,8
+Southern,Mong Kok,Taxi,2
+Southern,North Lantau,Bus,16
+Southern,North Lantau,Private Vehicle,1
+Southern,North Lantau,Rail,7
+Southern,North Lantau,SPB,2
+Southern,Rural NENT,PLB,2
+Southern,Rural NENT,Private Vehicle,3
+Southern,Rural NENT,Rail,17
+Southern,Rural NWNT,Bus,5
+Southern,Rural NWNT,PLB,1
+Southern,Rural NWNT,Rail,9
+Southern,Rural SENT,Bus,4
+Southern,Rural SENT,PLB,3
+Southern,Rural SENT,Private Vehicle,3
+Southern,Rural SENT,Rail,5
+Southern,Rural SENT,SPB,1
+Southern,Rural SWNT,Ferry,17
+Southern,Rural SWNT,Private Vehicle,1
+Southern,Rural SWNT,Rail,2
+Southern,Sha Tin,Bus,9
+Southern,Sha Tin,PLB,2
+Southern,Sha Tin,Private Vehicle,4
+Southern,Sha Tin,Rail,31
+Southern,Sham Shui Po,Bus,56
+Southern,Sham Shui Po,PLB,2
+Southern,Sham Shui Po,Private Vehicle,3
+Southern,Sham Shui Po,Rail,65
+Southern,Sham Shui Po,SPB,2
+Southern,Southern,Bus,854
+Southern,Southern,Ferry,1
+Southern,Southern,PLB,403
+Southern,Southern,Private Vehicle,74
+Southern,Southern,SPB,171
+Southern,Southern,Taxi,23
+Southern,Tai Po,Bus,2
+Southern,Tai Po,Private Vehicle,3
+Southern,Tai Po,Rail,14
+Southern,Tin Shui Wai,Bus,1
+Southern,Tseung Kwan O,Bus,2
+Southern,Tseung Kwan O,PLB,2
+Southern,Tseung Kwan O,Private Vehicle,2
+Southern,Tseung Kwan O,Rail,17
+Southern,Tsing Yi,Bus,4
+Southern,Tsing Yi,Rail,8
+Southern,Tsing Yi,SPB,1
+Southern,Tsuen Wan,Bus,6
+Southern,Tsuen Wan,PLB,1
+Southern,Tsuen Wan,Private Vehicle,5
+Southern,Tsuen Wan,Rail,14
+Southern,Tsuen Wan,Taxi,2
+Southern,Tuen Mun,Bus,13
+Southern,Tuen Mun,PLB,3
+Southern,Tuen Mun,Private Vehicle,2
+Southern,Tuen Mun,Rail,8
+Southern,Wan Chai,Bus,734
+Southern,Wan Chai,PLB,105
+Southern,Wan Chai,Private Vehicle,96
+Southern,Wan Chai,Rail,5
+Southern,Wan Chai,SPB,93
+Southern,Wan Chai,Taxi,18
+Southern,Wan Chai,Tram,8
+Southern,Wong Tai Sin,Bus,10
+Southern,Wong Tai Sin,PLB,1
+Southern,Wong Tai Sin,Rail,6
+Southern,Yau Ma Tei,Bus,91
+Southern,Yau Ma Tei,Ferry,14
+Southern,Yau Ma Tei,PLB,10
+Southern,Yau Ma Tei,Private Vehicle,10
+Southern,Yau Ma Tei,Rail,66
+Southern,Yuen Long,Bus,1
+Southern,Yuen Long,PLB,2
+Southern,Yuen Long,Private Vehicle,2
+Southern,Yuen Long,Rail,2
+Tai Po,Central & Western,Bus,46
+Tai Po,Central & Western,PLB,1
+Tai Po,Central & Western,Private Vehicle,10
+Tai Po,Central & Western,Rail,127
+Tai Po,Central & Western,SPB,3
+Tai Po,Eastern,Bus,19
+Tai Po,Eastern,Ferry,2
+Tai Po,Eastern,PLB,3
+Tai Po,Eastern,Private Vehicle,10
+Tai Po,Eastern,Rail,87
+Tai Po,Eastern,SPB,1
+Tai Po,Fanling / Sheung Shui,Bus,7
+Tai Po,Fanling / Sheung Shui,PLB,9
+Tai Po,Fanling / Sheung Shui,Private Vehicle,24
+Tai Po,Fanling / Sheung Shui,Rail,142
+Tai Po,Fanling / Sheung Shui,SPB,1
+Tai Po,Fanling / Sheung Shui,Taxi,6
+Tai Po,Kowloon City,Bus,63
+Tai Po,Kowloon City,PLB,1
+Tai Po,Kowloon City,Private Vehicle,13
+Tai Po,Kowloon City,Rail,125
+Tai Po,Kowloon City,SPB,16
+Tai Po,Kwai Chung,Bus,78
+Tai Po,Kwai Chung,PLB,4
+Tai Po,Kwai Chung,Private Vehicle,4
+Tai Po,Kwai Chung,Rail,29
+Tai Po,Kwai Chung,SPB,1
+Tai Po,Kwun Tong,Bus,172
+Tai Po,Kwun Tong,PLB,22
+Tai Po,Kwun Tong,Private Vehicle,24
+Tai Po,Kwun Tong,Rail,60
+Tai Po,Kwun Tong,SPB,1
+Tai Po,Kwun Tong,Taxi,1
+Tai Po,Ma On Shan,Bus,3
+Tai Po,Ma On Shan,PLB,15
+Tai Po,Ma On Shan,Private Vehicle,9
+Tai Po,Ma On Shan,Rail,53
+Tai Po,Ma On Shan,SPB,4
+Tai Po,Mong Kok,Bus,67
+Tai Po,Mong Kok,PLB,9
+Tai Po,Mong Kok,Private Vehicle,6
+Tai Po,Mong Kok,Rail,125
+Tai Po,North Lantau,Bus,41
+Tai Po,North Lantau,PLB,1
+Tai Po,North Lantau,Private Vehicle,5
+Tai Po,North Lantau,Rail,5
+Tai Po,North Lantau,SPB,5
+Tai Po,North Lantau,Taxi,2
+Tai Po,Rural NENT,Bus,6
+Tai Po,Rural NENT,PLB,29
+Tai Po,Rural NENT,Private Vehicle,11
+Tai Po,Rural NENT,Rail,54
+Tai Po,Rural NENT,SPB,4
+Tai Po,Rural NENT,Taxi,5
+Tai Po,Rural NWNT,Bus,12
+Tai Po,Rural NWNT,Private Vehicle,6
+Tai Po,Rural NWNT,Rail,13
+Tai Po,Rural SENT,Bus,6
+Tai Po,Rural SENT,PLB,3
+Tai Po,Rural SENT,Rail,10
+Tai Po,Rural SWNT,Bus,2
+Tai Po,Rural SWNT,Ferry,1
+Tai Po,Rural SWNT,Private Vehicle,2
+Tai Po,Rural SWNT,Rail,5
+Tai Po,Sha Tin,Bus,35
+Tai Po,Sha Tin,PLB,11
+Tai Po,Sha Tin,Private Vehicle,49
+Tai Po,Sha Tin,Rail,354
+Tai Po,Sha Tin,SPB,14
+Tai Po,Sha Tin,Taxi,12
+Tai Po,Sham Shui Po,Bus,34
+Tai Po,Sham Shui Po,PLB,7
+Tai Po,Sham Shui Po,Private Vehicle,14
+Tai Po,Sham Shui Po,Rail,139
+Tai Po,Sham Shui Po,SPB,16
+Tai Po,Sham Shui Po,Taxi,2
+Tai Po,Southern,Bus,5
+Tai Po,Southern,Ferry,1
+Tai Po,Southern,PLB,4
+Tai Po,Southern,Private Vehicle,2
+Tai Po,Southern,Rail,16
+Tai Po,Tai Po,Bus,208
+Tai Po,Tai Po,PLB,116
+Tai Po,Tai Po,Private Vehicle,160
+Tai Po,Tai Po,Rail,67
+Tai Po,Tai Po,SPB,273
+Tai Po,Tai Po,Taxi,54
+Tai Po,Tin Shui Wai,LRT,2
+Tai Po,Tin Shui Wai,Rail,4
+Tai Po,Tseung Kwan O,Bus,6
+Tai Po,Tseung Kwan O,PLB,4
+Tai Po,Tseung Kwan O,Private Vehicle,3
+Tai Po,Tseung Kwan O,Rail,15
+Tai Po,Tseung Kwan O,SPB,7
+Tai Po,Tsing Yi,Bus,6
+Tai Po,Tsing Yi,Private Vehicle,4
+Tai Po,Tsing Yi,Rail,12
+Tai Po,Tsuen Wan,Bus,63
+Tai Po,Tsuen Wan,PLB,3
+Tai Po,Tsuen Wan,Private Vehicle,11
+Tai Po,Tsuen Wan,Rail,14
+Tai Po,Tsuen Wan,SPB,1
+Tai Po,Tsuen Wan,Taxi,1
+Tai Po,Tuen Mun,Bus,2
+Tai Po,Tuen Mun,LRT,4
+Tai Po,Tuen Mun,PLB,1
+Tai Po,Tuen Mun,Private Vehicle,4
+Tai Po,Tuen Mun,Rail,33
+Tai Po,Tuen Mun,SPB,1
+Tai Po,Wan Chai,Bus,37
+Tai Po,Wan Chai,Ferry,3
+Tai Po,Wan Chai,PLB,7
+Tai Po,Wan Chai,Private Vehicle,1
+Tai Po,Wan Chai,Rail,96
+Tai Po,Wan Chai,SPB,4
+Tai Po,Wan Chai,Taxi,1
+Tai Po,Wong Tai Sin,Bus,51
+Tai Po,Wong Tai Sin,PLB,2
+Tai Po,Wong Tai Sin,Private Vehicle,7
+Tai Po,Wong Tai Sin,Rail,32
+Tai Po,Yau Ma Tei,Bus,108
+Tai Po,Yau Ma Tei,PLB,5
+Tai Po,Yau Ma Tei,Private Vehicle,21
+Tai Po,Yau Ma Tei,Rail,158
+Tai Po,Yau Ma Tei,SPB,3
+Tai Po,Yau Ma Tei,Taxi,4
+Tai Po,Yuen Long,Bus,5
+Tai Po,Yuen Long,PLB,5
+Tai Po,Yuen Long,Private Vehicle,13
+Tai Po,Yuen Long,Rail,11
+Tai Po,Yuen Long,SPB,2
+Tin Shui Wai,Central & Western,Bus,116
+Tin Shui Wai,Central & Western,Rail,52
+Tin Shui Wai,Central & Western,SPB,3
+Tin Shui Wai,Eastern,Bus,16
+Tin Shui Wai,Eastern,PLB,3
+Tin Shui Wai,Eastern,Private Vehicle,1
+Tin Shui Wai,Eastern,Rail,47
+Tin Shui Wai,Eastern,SPB,4
+Tin Shui Wai,Eastern,Tram,1
+Tin Shui Wai,Fanling / Sheung Shui,Bus,90
+Tin Shui Wai,Fanling / Sheung Shui,PLB,10
+Tin Shui Wai,Fanling / Sheung Shui,Private Vehicle,4
+Tin Shui Wai,Fanling / Sheung Shui,Rail,11
+Tin Shui Wai,Fanling / Sheung Shui,SPB,6
+Tin Shui Wai,Kowloon City,Bus,16
+Tin Shui Wai,Kowloon City,PLB,7
+Tin Shui Wai,Kowloon City,Private Vehicle,2
+Tin Shui Wai,Kowloon City,Rail,106
+Tin Shui Wai,Kwai Chung,Bus,135
+Tin Shui Wai,Kwai Chung,LRT,2
+Tin Shui Wai,Kwai Chung,PLB,13
+Tin Shui Wai,Kwai Chung,Private Vehicle,9
+Tin Shui Wai,Kwai Chung,Rail,59
+Tin Shui Wai,Kwai Chung,SPB,1
+Tin Shui Wai,Kwun Tong,Bus,112
+Tin Shui Wai,Kwun Tong,LRT,1
+Tin Shui Wai,Kwun Tong,PLB,2
+Tin Shui Wai,Kwun Tong,Private Vehicle,1
+Tin Shui Wai,Kwun Tong,Rail,27
+Tin Shui Wai,Kwun Tong,SPB,5
+Tin Shui Wai,Ma On Shan,Bus,2
+Tin Shui Wai,Ma On Shan,Rail,3
+Tin Shui Wai,Ma On Shan,SPB,1
+Tin Shui Wai,Mong Kok,Bus,83
+Tin Shui Wai,Mong Kok,Private Vehicle,1
+Tin Shui Wai,Mong Kok,Rail,34
+Tin Shui Wai,North Lantau,Bus,70
+Tin Shui Wai,North Lantau,LRT,5
+Tin Shui Wai,North Lantau,Rail,3
+Tin Shui Wai,North Lantau,SPB,5
+Tin Shui Wai,Rural NENT,Bus,3
+Tin Shui Wai,Rural NENT,LRT,2
+Tin Shui Wai,Rural NENT,PLB,10
+Tin Shui Wai,Rural NENT,Private Vehicle,5
+Tin Shui Wai,Rural NENT,Rail,31
+Tin Shui Wai,Rural NENT,Taxi,1
+Tin Shui Wai,Rural NWNT,Bus,40
+Tin Shui Wai,Rural NWNT,LRT,115
+Tin Shui Wai,Rural NWNT,PLB,16
+Tin Shui Wai,Rural NWNT,Private Vehicle,21
+Tin Shui Wai,Rural NWNT,Rail,40
+Tin Shui Wai,Rural NWNT,SPB,21
+Tin Shui Wai,Rural NWNT,Taxi,13
+Tin Shui Wai,Rural SENT,Bus,1
+Tin Shui Wai,Rural SENT,PLB,2
+Tin Shui Wai,Rural SENT,Rail,1
+Tin Shui Wai,Sha Tin,Bus,33
+Tin Shui Wai,Sha Tin,PLB,1
+Tin Shui Wai,Sha Tin,Private Vehicle,3
+Tin Shui Wai,Sha Tin,Rail,51
+Tin Shui Wai,Sha Tin,SPB,2
+Tin Shui Wai,Sham Shui Po,Bus,76
+Tin Shui Wai,Sham Shui Po,PLB,1
+Tin Shui Wai,Sham Shui Po,Private Vehicle,8
+Tin Shui Wai,Sham Shui Po,Rail,146
+Tin Shui Wai,Sham Shui Po,SPB,2
+Tin Shui Wai,Southern,Bus,12
+Tin Shui Wai,Southern,LRT,1
+Tin Shui Wai,Southern,PLB,2
+Tin Shui Wai,Southern,Rail,5
+Tin Shui Wai,Tai Po,Bus,9
+Tin Shui Wai,Tai Po,LRT,6
+Tin Shui Wai,Tai Po,PLB,1
+Tin Shui Wai,Tai Po,Private Vehicle,2
+Tin Shui Wai,Tai Po,Rail,29
+Tin Shui Wai,Tai Po,SPB,8
+Tin Shui Wai,Tin Shui Wai,Bus,21
+Tin Shui Wai,Tin Shui Wai,LRT,402
+Tin Shui Wai,Tin Shui Wai,PLB,2
+Tin Shui Wai,Tin Shui Wai,Private Vehicle,3
+Tin Shui Wai,Tin Shui Wai,Rail,2
+Tin Shui Wai,Tin Shui Wai,SPB,66
+Tin Shui Wai,Tseung Kwan O,Private Vehicle,5
+Tin Shui Wai,Tseung Kwan O,Rail,16
+Tin Shui Wai,Tsing Yi,Bus,24
+Tin Shui Wai,Tsing Yi,PLB,3
+Tin Shui Wai,Tsing Yi,Rail,12
+Tin Shui Wai,Tsing Yi,SPB,1
+Tin Shui Wai,Tsuen Wan,Bus,107
+Tin Shui Wai,Tsuen Wan,PLB,2
+Tin Shui Wai,Tsuen Wan,Private Vehicle,9
+Tin Shui Wai,Tsuen Wan,Rail,79
+Tin Shui Wai,Tsuen Wan,SPB,4
+Tin Shui Wai,Tuen Mun,Bus,6
+Tin Shui Wai,Tuen Mun,LRT,177
+Tin Shui Wai,Tuen Mun,PLB,2
+Tin Shui Wai,Tuen Mun,Private Vehicle,35
+Tin Shui Wai,Tuen Mun,Rail,310
+Tin Shui Wai,Tuen Mun,SPB,9
+Tin Shui Wai,Tuen Mun,Taxi,6
+Tin Shui Wai,Wan Chai,Bus,121
+Tin Shui Wai,Wan Chai,Private Vehicle,6
+Tin Shui Wai,Wan Chai,Rail,30
+Tin Shui Wai,Wan Chai,SPB,5
+Tin Shui Wai,Wan Chai,Tram,1
+Tin Shui Wai,Wong Tai Sin,Bus,33
+Tin Shui Wai,Wong Tai Sin,PLB,2
+Tin Shui Wai,Wong Tai Sin,Private Vehicle,2
+Tin Shui Wai,Wong Tai Sin,Rail,13
+Tin Shui Wai,Wong Tai Sin,SPB,1
+Tin Shui Wai,Yau Ma Tei,Bus,72
+Tin Shui Wai,Yau Ma Tei,LRT,1
+Tin Shui Wai,Yau Ma Tei,Private Vehicle,3
+Tin Shui Wai,Yau Ma Tei,Rail,159
+Tin Shui Wai,Yau Ma Tei,SPB,2
+Tin Shui Wai,Yuen Long,Bus,87
+Tin Shui Wai,Yuen Long,LRT,429
+Tin Shui Wai,Yuen Long,PLB,24
+Tin Shui Wai,Yuen Long,Private Vehicle,27
+Tin Shui Wai,Yuen Long,Rail,148
+Tin Shui Wai,Yuen Long,SPB,58
+Tin Shui Wai,Yuen Long,Taxi,20
+Tseung Kwan O,Central & Western,Bus,29
+Tseung Kwan O,Central & Western,PLB,9
+Tseung Kwan O,Central & Western,Private Vehicle,5
+Tseung Kwan O,Central & Western,Rail,491
+Tseung Kwan O,Central & Western,SPB,2
+Tseung Kwan O,Central & Western,Taxi,1
+Tseung Kwan O,Eastern,Bus,30
+Tseung Kwan O,Eastern,PLB,18
+Tseung Kwan O,Eastern,Private Vehicle,14
+Tseung Kwan O,Eastern,Rail,486
+Tseung Kwan O,Eastern,SPB,2
+Tseung Kwan O,Eastern,Taxi,2
+Tseung Kwan O,Fanling / Sheung Shui,Bus,2
+Tseung Kwan O,Fanling / Sheung Shui,Private Vehicle,5
+Tseung Kwan O,Fanling / Sheung Shui,Rail,28
+Tseung Kwan O,Kowloon City,Bus,133
+Tseung Kwan O,Kowloon City,PLB,55
+Tseung Kwan O,Kowloon City,Private Vehicle,36
+Tseung Kwan O,Kowloon City,Rail,105
+Tseung Kwan O,Kowloon City,SPB,40
+Tseung Kwan O,Kowloon City,Taxi,2
+Tseung Kwan O,Kwai Chung,Bus,5
+Tseung Kwan O,Kwai Chung,Private Vehicle,8
+Tseung Kwan O,Kwai Chung,Rail,74
+Tseung Kwan O,Kwai Chung,SPB,4
+Tseung Kwan O,Kwai Chung,Taxi,1
+Tseung Kwan O,Kwun Tong,Bus,224
+Tseung Kwan O,Kwun Tong,PLB,181
+Tseung Kwan O,Kwun Tong,Private Vehicle,60
+Tseung Kwan O,Kwun Tong,Rail,847
+Tseung Kwan O,Kwun Tong,SPB,21
+Tseung Kwan O,Kwun Tong,Taxi,11
+Tseung Kwan O,Ma On Shan,Bus,5
+Tseung Kwan O,Ma On Shan,PLB,3
+Tseung Kwan O,Ma On Shan,Private Vehicle,6
+Tseung Kwan O,Ma On Shan,Rail,6
+Tseung Kwan O,Mong Kok,Bus,107
+Tseung Kwan O,Mong Kok,PLB,21
+Tseung Kwan O,Mong Kok,Private Vehicle,25
+Tseung Kwan O,Mong Kok,Rail,277
+Tseung Kwan O,Mong Kok,SPB,6
+Tseung Kwan O,Mong Kok,Taxi,1
+Tseung Kwan O,North Lantau,Bus,35
+Tseung Kwan O,North Lantau,PLB,2
+Tseung Kwan O,North Lantau,Rail,13
+Tseung Kwan O,North Lantau,SPB,6
+Tseung Kwan O,North Lantau,Taxi,1
+Tseung Kwan O,Rural NENT,Private Vehicle,1
+Tseung Kwan O,Rural NENT,Rail,20
+Tseung Kwan O,Rural NWNT,PLB,2
+Tseung Kwan O,Rural NWNT,Private Vehicle,5
+Tseung Kwan O,Rural NWNT,Rail,9
+Tseung Kwan O,Rural SENT,Bus,26
+Tseung Kwan O,Rural SENT,PLB,66
+Tseung Kwan O,Rural SENT,Private Vehicle,9
+Tseung Kwan O,Rural SENT,Rail,7
+Tseung Kwan O,Rural SENT,SPB,7
+Tseung Kwan O,Rural SWNT,Rail,1
+Tseung Kwan O,Sha Tin,Bus,51
+Tseung Kwan O,Sha Tin,Private Vehicle,15
+Tseung Kwan O,Sha Tin,Rail,122
+Tseung Kwan O,Sha Tin,SPB,2
+Tseung Kwan O,Sham Shui Po,Bus,41
+Tseung Kwan O,Sham Shui Po,PLB,2
+Tseung Kwan O,Sham Shui Po,Private Vehicle,11
+Tseung Kwan O,Sham Shui Po,Rail,221
+Tseung Kwan O,Sham Shui Po,SPB,7
+Tseung Kwan O,Southern,Bus,1
+Tseung Kwan O,Southern,Private Vehicle,4
+Tseung Kwan O,Southern,Rail,23
+Tseung Kwan O,Southern,SPB,4
+Tseung Kwan O,Tai Po,Bus,7
+Tseung Kwan O,Tai Po,PLB,4
+Tseung Kwan O,Tai Po,Private Vehicle,3
+Tseung Kwan O,Tai Po,Rail,23
+Tseung Kwan O,Tin Shui Wai,Bus,2
+Tseung Kwan O,Tin Shui Wai,Rail,10
+Tseung Kwan O,Tseung Kwan O,Bus,128
+Tseung Kwan O,Tseung Kwan O,PLB,200
+Tseung Kwan O,Tseung Kwan O,Private Vehicle,29
+Tseung Kwan O,Tseung Kwan O,Rail,698
+Tseung Kwan O,Tseung Kwan O,SPB,107
+Tseung Kwan O,Tseung Kwan O,Taxi,11
+Tseung Kwan O,Tsing Yi,Bus,2
+Tseung Kwan O,Tsing Yi,Private Vehicle,1
+Tseung Kwan O,Tsing Yi,Rail,13
+Tseung Kwan O,Tsuen Wan,Bus,13
+Tseung Kwan O,Tsuen Wan,PLB,7
+Tseung Kwan O,Tsuen Wan,Private Vehicle,12
+Tseung Kwan O,Tsuen Wan,Rail,60
+Tseung Kwan O,Tsuen Wan,SPB,4
+Tseung Kwan O,Tuen Mun,Bus,4
+Tseung Kwan O,Tuen Mun,Private Vehicle,10
+Tseung Kwan O,Tuen Mun,Rail,20
+Tseung Kwan O,Wan Chai,Bus,45
+Tseung Kwan O,Wan Chai,PLB,4
+Tseung Kwan O,Wan Chai,Private Vehicle,8
+Tseung Kwan O,Wan Chai,Rail,497
+Tseung Kwan O,Wan Chai,SPB,13
+Tseung Kwan O,Wan Chai,Taxi,3
+Tseung Kwan O,Wong Tai Sin,Bus,35
+Tseung Kwan O,Wong Tai Sin,PLB,62
+Tseung Kwan O,Wong Tai Sin,Private Vehicle,16
+Tseung Kwan O,Wong Tai Sin,Rail,126
+Tseung Kwan O,Wong Tai Sin,SPB,10
+Tseung Kwan O,Wong Tai Sin,Taxi,1
+Tseung Kwan O,Yau Ma Tei,Bus,125
+Tseung Kwan O,Yau Ma Tei,PLB,6
+Tseung Kwan O,Yau Ma Tei,Private Vehicle,20
+Tseung Kwan O,Yau Ma Tei,Rail,264
+Tseung Kwan O,Yau Ma Tei,SPB,3
+Tseung Kwan O,Yau Ma Tei,Taxi,2
+Tseung Kwan O,Yuen Long,Bus,6
+Tseung Kwan O,Yuen Long,PLB,4
+Tseung Kwan O,Yuen Long,Rail,8
+Tsing Yi,Central & Western,Bus,11
+Tsing Yi,Central & Western,PLB,1
+Tsing Yi,Central & Western,Private Vehicle,3
+Tsing Yi,Central & Western,Rail,199
+Tsing Yi,Central & Western,SPB,2
+Tsing Yi,Central & Western,Taxi,2
+Tsing Yi,Eastern,Bus,3
+Tsing Yi,Eastern,PLB,1
+Tsing Yi,Eastern,Private Vehicle,2
+Tsing Yi,Eastern,Rail,76
+Tsing Yi,Eastern,Taxi,1
+Tsing Yi,Fanling / Sheung Shui,Bus,13
+Tsing Yi,Fanling / Sheung Shui,PLB,1
+Tsing Yi,Fanling / Sheung Shui,Private Vehicle,1
+Tsing Yi,Fanling / Sheung Shui,Rail,1
+Tsing Yi,Kowloon City,Bus,47
+Tsing Yi,Kowloon City,PLB,10
+Tsing Yi,Kowloon City,Private Vehicle,11
+Tsing Yi,Kowloon City,Rail,72
+Tsing Yi,Kowloon City,SPB,14
+Tsing Yi,Kwai Chung,Bus,281
+Tsing Yi,Kwai Chung,PLB,194
+Tsing Yi,Kwai Chung,Private Vehicle,40
+Tsing Yi,Kwai Chung,Rail,60
+Tsing Yi,Kwai Chung,SPB,20
+Tsing Yi,Kwai Chung,Taxi,8
+Tsing Yi,Kwun Tong,Bus,85
+Tsing Yi,Kwun Tong,PLB,3
+Tsing Yi,Kwun Tong,Private Vehicle,17
+Tsing Yi,Kwun Tong,Rail,74
+Tsing Yi,Kwun Tong,Taxi,2
+Tsing Yi,Ma On Shan,Bus,3
+Tsing Yi,Ma On Shan,PLB,2
+Tsing Yi,Ma On Shan,Rail,11
+Tsing Yi,Mong Kok,Bus,82
+Tsing Yi,Mong Kok,Private Vehicle,11
+Tsing Yi,Mong Kok,Rail,89
+Tsing Yi,Mong Kok,SPB,5
+Tsing Yi,Mong Kok,Taxi,5
+Tsing Yi,North Lantau,Bus,53
+Tsing Yi,North Lantau,Private Vehicle,1
+Tsing Yi,North Lantau,Rail,64
+Tsing Yi,North Lantau,SPB,11
+Tsing Yi,Rural NENT,Bus,1
+Tsing Yi,Rural NENT,PLB,2
+Tsing Yi,Rural NENT,Rail,7
+Tsing Yi,Rural NWNT,Bus,14
+Tsing Yi,Rural NWNT,PLB,2
+Tsing Yi,Rural NWNT,Private Vehicle,13
+Tsing Yi,Rural NWNT,Rail,6
+Tsing Yi,Rural NWNT,SPB,1
+Tsing Yi,Rural NWNT,Taxi,1
+Tsing Yi,Rural SENT,Bus,2
+Tsing Yi,Rural SENT,PLB,8
+Tsing Yi,Rural SENT,Rail,9
+Tsing Yi,Rural SENT,SPB,2
+Tsing Yi,Rural SWNT,Rail,10
+Tsing Yi,Rural SWNT,SPB,2
+Tsing Yi,Sha Tin,Bus,65
+Tsing Yi,Sha Tin,PLB,14
+Tsing Yi,Sha Tin,Private Vehicle,5
+Tsing Yi,Sha Tin,Rail,36
+Tsing Yi,Sha Tin,SPB,3
+Tsing Yi,Sha Tin,Taxi,3
+Tsing Yi,Sham Shui Po,Bus,157
+Tsing Yi,Sham Shui Po,PLB,3
+Tsing Yi,Sham Shui Po,Private Vehicle,24
+Tsing Yi,Sham Shui Po,Rail,98
+Tsing Yi,Sham Shui Po,SPB,22
+Tsing Yi,Sham Shui Po,Taxi,6
+Tsing Yi,Southern,Bus,6
+Tsing Yi,Southern,Private Vehicle,3
+Tsing Yi,Southern,Rail,26
+Tsing Yi,Southern,SPB,1
+Tsing Yi,Southern,Taxi,1
+Tsing Yi,Tai Po,Bus,19
+Tsing Yi,Tai Po,PLB,12
+Tsing Yi,Tai Po,Private Vehicle,5
+Tsing Yi,Tai Po,Rail,3
+Tsing Yi,Tai Po,Taxi,1
+Tsing Yi,Tin Shui Wai,Bus,9
+Tsing Yi,Tin Shui Wai,Private Vehicle,3
+Tsing Yi,Tin Shui Wai,Rail,2
+Tsing Yi,Tseung Kwan O,Bus,5
+Tsing Yi,Tseung Kwan O,Rail,17
+Tsing Yi,Tsing Yi,Bus,221
+Tsing Yi,Tsing Yi,PLB,86
+Tsing Yi,Tsing Yi,Private Vehicle,20
+Tsing Yi,Tsing Yi,Rail,1
+Tsing Yi,Tsing Yi,SPB,51
+Tsing Yi,Tsing Yi,Taxi,18
+Tsing Yi,Tsuen Wan,Bus,312
+Tsing Yi,Tsuen Wan,PLB,53
+Tsing Yi,Tsuen Wan,Private Vehicle,33
+Tsing Yi,Tsuen Wan,Rail,33
+Tsing Yi,Tsuen Wan,SPB,3
+Tsing Yi,Tsuen Wan,Taxi,5
+Tsing Yi,Tuen Mun,Bus,33
+Tsing Yi,Tuen Mun,LRT,1
+Tsing Yi,Tuen Mun,PLB,6
+Tsing Yi,Tuen Mun,Private Vehicle,10
+Tsing Yi,Tuen Mun,Rail,3
+Tsing Yi,Wan Chai,Bus,16
+Tsing Yi,Wan Chai,Ferry,3
+Tsing Yi,Wan Chai,PLB,3
+Tsing Yi,Wan Chai,Private Vehicle,1
+Tsing Yi,Wan Chai,Rail,132
+Tsing Yi,Wan Chai,SPB,3
+Tsing Yi,Wan Chai,Taxi,10
+Tsing Yi,Wong Tai Sin,Bus,18
+Tsing Yi,Wong Tai Sin,PLB,1
+Tsing Yi,Wong Tai Sin,Private Vehicle,1
+Tsing Yi,Wong Tai Sin,Rail,20
+Tsing Yi,Wong Tai Sin,SPB,2
+Tsing Yi,Wong Tai Sin,Taxi,1
+Tsing Yi,Yau Ma Tei,Bus,73
+Tsing Yi,Yau Ma Tei,Private Vehicle,6
+Tsing Yi,Yau Ma Tei,Rail,177
+Tsing Yi,Yau Ma Tei,SPB,22
+Tsing Yi,Yau Ma Tei,Taxi,7
+Tsing Yi,Yuen Long,Bus,6
+Tsing Yi,Yuen Long,Private Vehicle,6
+Tsing Yi,Yuen Long,Rail,4
+Tsuen Wan,Central & Western,Bus,87
+Tsuen Wan,Central & Western,PLB,24
+Tsuen Wan,Central & Western,Private Vehicle,7
+Tsuen Wan,Central & Western,Rail,274
+Tsuen Wan,Central & Western,SPB,8
+Tsuen Wan,Central & Western,Taxi,4
+Tsuen Wan,Central & Western,Tram,2
+Tsuen Wan,Eastern,Bus,5
+Tsuen Wan,Eastern,PLB,2
+Tsuen Wan,Eastern,Private Vehicle,4
+Tsuen Wan,Eastern,Rail,132
+Tsuen Wan,Eastern,SPB,1
+Tsuen Wan,Eastern,Tram,2
+Tsuen Wan,Fanling / Sheung Shui,Bus,11
+Tsuen Wan,Fanling / Sheung Shui,PLB,4
+Tsuen Wan,Fanling / Sheung Shui,Rail,4
+Tsuen Wan,Kowloon City,Bus,25
+Tsuen Wan,Kowloon City,PLB,46
+Tsuen Wan,Kowloon City,Private Vehicle,26
+Tsuen Wan,Kowloon City,Rail,109
+Tsuen Wan,Kowloon City,SPB,38
+Tsuen Wan,Kowloon City,Taxi,8
+Tsuen Wan,Kwai Chung,Bus,186
+Tsuen Wan,Kwai Chung,PLB,170
+Tsuen Wan,Kwai Chung,Private Vehicle,39
+Tsuen Wan,Kwai Chung,Rail,164
+Tsuen Wan,Kwai Chung,SPB,24
+Tsuen Wan,Kwai Chung,Taxi,20
+Tsuen Wan,Kwun Tong,Bus,17
+Tsuen Wan,Kwun Tong,PLB,51
+Tsuen Wan,Kwun Tong,Private Vehicle,13
+Tsuen Wan,Kwun Tong,Rail,106
+Tsuen Wan,Kwun Tong,SPB,13
+Tsuen Wan,Kwun Tong,Taxi,6
+Tsuen Wan,Ma On Shan,Bus,17
+Tsuen Wan,Ma On Shan,PLB,2
+Tsuen Wan,Ma On Shan,Private Vehicle,4
+Tsuen Wan,Ma On Shan,Taxi,1
+Tsuen Wan,Mong Kok,Bus,35
+Tsuen Wan,Mong Kok,PLB,32
+Tsuen Wan,Mong Kok,Private Vehicle,10
+Tsuen Wan,Mong Kok,Rail,115
+Tsuen Wan,Mong Kok,SPB,1
+Tsuen Wan,North Lantau,Bus,30
+Tsuen Wan,North Lantau,PLB,9
+Tsuen Wan,North Lantau,Private Vehicle,7
+Tsuen Wan,North Lantau,Rail,61
+Tsuen Wan,North Lantau,SPB,15
+Tsuen Wan,North Lantau,Taxi,2
+Tsuen Wan,Rural NENT,PLB,2
+Tsuen Wan,Rural NENT,Private Vehicle,7
+Tsuen Wan,Rural NENT,Rail,14
+Tsuen Wan,Rural NWNT,Bus,7
+Tsuen Wan,Rural NWNT,PLB,5
+Tsuen Wan,Rural NWNT,Private Vehicle,15
+Tsuen Wan,Rural NWNT,Rail,16
+Tsuen Wan,Rural NWNT,SPB,11
+Tsuen Wan,Rural NWNT,Taxi,1
+Tsuen Wan,Rural SENT,Rail,9
+Tsuen Wan,Rural SENT,SPB,2
+Tsuen Wan,Rural SWNT,Private Vehicle,1
+Tsuen Wan,Rural SWNT,Rail,1
+Tsuen Wan,Rural SWNT,Taxi,1
+Tsuen Wan,Sha Tin,Bus,106
+Tsuen Wan,Sha Tin,PLB,36
+Tsuen Wan,Sha Tin,Private Vehicle,24
+Tsuen Wan,Sha Tin,Rail,39
+Tsuen Wan,Sha Tin,SPB,12
+Tsuen Wan,Sha Tin,Taxi,5
+Tsuen Wan,Sham Shui Po,Bus,111
+Tsuen Wan,Sham Shui Po,PLB,11
+Tsuen Wan,Sham Shui Po,Private Vehicle,36
+Tsuen Wan,Sham Shui Po,Rail,246
+Tsuen Wan,Sham Shui Po,SPB,20
+Tsuen Wan,Sham Shui Po,Taxi,10
+Tsuen Wan,Southern,Bus,10
+Tsuen Wan,Southern,PLB,4
+Tsuen Wan,Southern,Private Vehicle,2
+Tsuen Wan,Southern,Rail,24
+Tsuen Wan,Southern,SPB,4
+Tsuen Wan,Tai Po,Bus,34
+Tsuen Wan,Tai Po,PLB,12
+Tsuen Wan,Tai Po,Private Vehicle,10
+Tsuen Wan,Tai Po,Rail,5
+Tsuen Wan,Tai Po,SPB,7
+Tsuen Wan,Tin Shui Wai,Bus,9
+Tsuen Wan,Tin Shui Wai,PLB,1
+Tsuen Wan,Tin Shui Wai,Rail,8
+Tsuen Wan,Tseung Kwan O,Bus,2
+Tsuen Wan,Tseung Kwan O,PLB,5
+Tsuen Wan,Tseung Kwan O,Private Vehicle,2
+Tsuen Wan,Tseung Kwan O,Rail,30
+Tsuen Wan,Tseung Kwan O,SPB,2
+Tsuen Wan,Tsing Yi,Bus,53
+Tsuen Wan,Tsing Yi,PLB,48
+Tsuen Wan,Tsing Yi,Private Vehicle,16
+Tsuen Wan,Tsing Yi,Rail,32
+Tsuen Wan,Tsing Yi,SPB,15
+Tsuen Wan,Tsing Yi,Taxi,1
+Tsuen Wan,Tsuen Wan,Bus,354
+Tsuen Wan,Tsuen Wan,PLB,635
+Tsuen Wan,Tsuen Wan,Private Vehicle,61
+Tsuen Wan,Tsuen Wan,Rail,1
+Tsuen Wan,Tsuen Wan,SPB,198
+Tsuen Wan,Tsuen Wan,Taxi,29
+Tsuen Wan,Tuen Mun,Bus,88
+Tsuen Wan,Tuen Mun,LRT,1
+Tsuen Wan,Tuen Mun,PLB,11
+Tsuen Wan,Tuen Mun,Private Vehicle,6
+Tsuen Wan,Tuen Mun,Rail,18
+Tsuen Wan,Tuen Mun,SPB,5
+Tsuen Wan,Wan Chai,Bus,43
+Tsuen Wan,Wan Chai,PLB,22
+Tsuen Wan,Wan Chai,Private Vehicle,7
+Tsuen Wan,Wan Chai,Rail,154
+Tsuen Wan,Wan Chai,SPB,9
+Tsuen Wan,Wong Tai Sin,Bus,4
+Tsuen Wan,Wong Tai Sin,PLB,12
+Tsuen Wan,Wong Tai Sin,Private Vehicle,4
+Tsuen Wan,Wong Tai Sin,Rail,28
+Tsuen Wan,Wong Tai Sin,SPB,6
+Tsuen Wan,Yau Ma Tei,Bus,63
+Tsuen Wan,Yau Ma Tei,PLB,52
+Tsuen Wan,Yau Ma Tei,Private Vehicle,38
+Tsuen Wan,Yau Ma Tei,Rail,253
+Tsuen Wan,Yau Ma Tei,SPB,19
+Tsuen Wan,Yau Ma Tei,Taxi,5
+Tsuen Wan,Yuen Long,Bus,16
+Tsuen Wan,Yuen Long,PLB,1
+Tsuen Wan,Yuen Long,Private Vehicle,3
+Tsuen Wan,Yuen Long,Rail,18
+Tsuen Wan,Yuen Long,SPB,2
+Tuen Mun,Central & Western,Bus,267
+Tuen Mun,Central & Western,LRT,1
+Tuen Mun,Central & Western,PLB,9
+Tuen Mun,Central & Western,Private Vehicle,16
+Tuen Mun,Central & Western,Rail,48
+Tuen Mun,Central & Western,SPB,44
+Tuen Mun,Central & Western,Tram,8
+Tuen Mun,Eastern,Bus,32
+Tuen Mun,Eastern,PLB,5
+Tuen Mun,Eastern,Private Vehicle,14
+Tuen Mun,Eastern,Rail,92
+Tuen Mun,Eastern,SPB,5
+Tuen Mun,Eastern,Tram,5
+Tuen Mun,Fanling / Sheung Shui,Bus,14
+Tuen Mun,Fanling / Sheung Shui,LRT,2
+Tuen Mun,Fanling / Sheung Shui,PLB,67
+Tuen Mun,Fanling / Sheung Shui,Private Vehicle,12
+Tuen Mun,Fanling / Sheung Shui,Rail,11
+Tuen Mun,Kowloon City,Bus,57
+Tuen Mun,Kowloon City,LRT,9
+Tuen Mun,Kowloon City,PLB,26
+Tuen Mun,Kowloon City,Private Vehicle,23
+Tuen Mun,Kowloon City,Rail,107
+Tuen Mun,Kowloon City,SPB,25
+Tuen Mun,Kowloon City,Taxi,1
+Tuen Mun,Kwai Chung,Bus,316
+Tuen Mun,Kwai Chung,PLB,38
+Tuen Mun,Kwai Chung,Private Vehicle,26
+Tuen Mun,Kwai Chung,Rail,74
+Tuen Mun,Kwai Chung,SPB,13
+Tuen Mun,Kwai Chung,Taxi,1
+Tuen Mun,Kwun Tong,Bus,214
+Tuen Mun,Kwun Tong,LRT,1
+Tuen Mun,Kwun Tong,PLB,16
+Tuen Mun,Kwun Tong,Private Vehicle,18
+Tuen Mun,Kwun Tong,Rail,44
+Tuen Mun,Kwun Tong,SPB,36
+Tuen Mun,Kwun Tong,Taxi,1
+Tuen Mun,Ma On Shan,Bus,7
+Tuen Mun,Ma On Shan,Private Vehicle,5
+Tuen Mun,Ma On Shan,Rail,4
+Tuen Mun,Mong Kok,Bus,260
+Tuen Mun,Mong Kok,PLB,10
+Tuen Mun,Mong Kok,Private Vehicle,13
+Tuen Mun,Mong Kok,Rail,50
+Tuen Mun,Mong Kok,SPB,12
+Tuen Mun,Mong Kok,Taxi,1
+Tuen Mun,North Lantau,Bus,113
+Tuen Mun,North Lantau,Ferry,2
+Tuen Mun,North Lantau,LRT,40
+Tuen Mun,North Lantau,PLB,14
+Tuen Mun,North Lantau,Private Vehicle,3
+Tuen Mun,North Lantau,Rail,18
+Tuen Mun,North Lantau,SPB,15
+Tuen Mun,North Lantau,Taxi,1
+Tuen Mun,Rural NENT,Bus,1
+Tuen Mun,Rural NENT,LRT,4
+Tuen Mun,Rural NENT,PLB,15
+Tuen Mun,Rural NENT,Private Vehicle,8
+Tuen Mun,Rural NENT,Rail,35
+Tuen Mun,Rural NENT,SPB,1
+Tuen Mun,Rural NWNT,Bus,20
+Tuen Mun,Rural NWNT,LRT,113
+Tuen Mun,Rural NWNT,PLB,20
+Tuen Mun,Rural NWNT,Private Vehicle,45
+Tuen Mun,Rural NWNT,Rail,64
+Tuen Mun,Rural NWNT,SPB,17
+Tuen Mun,Rural NWNT,Taxi,5
+Tuen Mun,Rural SENT,PLB,2
+Tuen Mun,Rural SENT,Private Vehicle,2
+Tuen Mun,Rural SENT,Rail,5
+Tuen Mun,Rural SWNT,Bus,2
+Tuen Mun,Rural SWNT,Ferry,8
+Tuen Mun,Rural SWNT,PLB,1
+Tuen Mun,Rural SWNT,Rail,3
+Tuen Mun,Sha Tin,Bus,45
+Tuen Mun,Sha Tin,LRT,8
+Tuen Mun,Sha Tin,PLB,25
+Tuen Mun,Sha Tin,Private Vehicle,11
+Tuen Mun,Sha Tin,Rail,73
+Tuen Mun,Sha Tin,SPB,9
+Tuen Mun,Sham Shui Po,Bus,260
+Tuen Mun,Sham Shui Po,PLB,6
+Tuen Mun,Sham Shui Po,Private Vehicle,19
+Tuen Mun,Sham Shui Po,Rail,116
+Tuen Mun,Sham Shui Po,SPB,16
+Tuen Mun,Sham Shui Po,Taxi,3
+Tuen Mun,Southern,Bus,32
+Tuen Mun,Southern,LRT,2
+Tuen Mun,Southern,PLB,1
+Tuen Mun,Southern,Private Vehicle,8
+Tuen Mun,Southern,Rail,12
+Tuen Mun,Tai Po,Bus,9
+Tuen Mun,Tai Po,LRT,2
+Tuen Mun,Tai Po,PLB,8
+Tuen Mun,Tai Po,Private Vehicle,5
+Tuen Mun,Tai Po,Rail,26
+Tuen Mun,Tai Po,SPB,4
+Tuen Mun,Tai Po,Taxi,1
+Tuen Mun,Tin Shui Wai,LRT,56
+Tuen Mun,Tin Shui Wai,Private Vehicle,6
+Tuen Mun,Tin Shui Wai,Rail,92
+Tuen Mun,Tin Shui Wai,SPB,2
+Tuen Mun,Tseung Kwan O,Bus,9
+Tuen Mun,Tseung Kwan O,LRT,3
+Tuen Mun,Tseung Kwan O,PLB,1
+Tuen Mun,Tseung Kwan O,Rail,25
+Tuen Mun,Tseung Kwan O,SPB,2
+Tuen Mun,Tsing Yi,Bus,14
+Tuen Mun,Tsing Yi,LRT,2
+Tuen Mun,Tsing Yi,PLB,38
+Tuen Mun,Tsing Yi,Private Vehicle,11
+Tuen Mun,Tsing Yi,Rail,17
+Tuen Mun,Tsing Yi,SPB,5
+Tuen Mun,Tsing Yi,Taxi,2
+Tuen Mun,Tsuen Wan,Bus,447
+Tuen Mun,Tsuen Wan,LRT,7
+Tuen Mun,Tsuen Wan,PLB,27
+Tuen Mun,Tsuen Wan,Private Vehicle,46
+Tuen Mun,Tsuen Wan,Rail,59
+Tuen Mun,Tsuen Wan,SPB,15
+Tuen Mun,Tuen Mun,Bus,209
+Tuen Mun,Tuen Mun,LRT,1985
+Tuen Mun,Tuen Mun,PLB,232
+Tuen Mun,Tuen Mun,Private Vehicle,189
+Tuen Mun,Tuen Mun,Rail,22
+Tuen Mun,Tuen Mun,SPB,371
+Tuen Mun,Tuen Mun,Taxi,67
+Tuen Mun,Wan Chai,Bus,209
+Tuen Mun,Wan Chai,PLB,9
+Tuen Mun,Wan Chai,Private Vehicle,12
+Tuen Mun,Wan Chai,Rail,49
+Tuen Mun,Wan Chai,SPB,30
+Tuen Mun,Wan Chai,Taxi,2
+Tuen Mun,Wan Chai,Tram,10
+Tuen Mun,Wong Tai Sin,Bus,67
+Tuen Mun,Wong Tai Sin,LRT,2
+Tuen Mun,Wong Tai Sin,PLB,1
+Tuen Mun,Wong Tai Sin,Private Vehicle,11
+Tuen Mun,Wong Tai Sin,Rail,7
+Tuen Mun,Wong Tai Sin,SPB,4
+Tuen Mun,Wong Tai Sin,Taxi,1
+Tuen Mun,Yau Ma Tei,Bus,162
+Tuen Mun,Yau Ma Tei,LRT,4
+Tuen Mun,Yau Ma Tei,PLB,11
+Tuen Mun,Yau Ma Tei,Private Vehicle,15
+Tuen Mun,Yau Ma Tei,Rail,238
+Tuen Mun,Yau Ma Tei,SPB,26
+Tuen Mun,Yau Ma Tei,Taxi,3
+Tuen Mun,Yuen Long,Bus,2
+Tuen Mun,Yuen Long,LRT,154
+Tuen Mun,Yuen Long,PLB,10
+Tuen Mun,Yuen Long,Private Vehicle,25
+Tuen Mun,Yuen Long,Rail,128
+Tuen Mun,Yuen Long,SPB,6
+Tuen Mun,Yuen Long,Taxi,7
+Wan Chai,Central & Western,Bus,218
+Wan Chai,Central & Western,PLB,43
+Wan Chai,Central & Western,Private Vehicle,155
+Wan Chai,Central & Western,Rail,206
+Wan Chai,Central & Western,SPB,26
+Wan Chai,Central & Western,Taxi,82
+Wan Chai,Central & Western,Tram,123
+Wan Chai,Eastern,Bus,147
+Wan Chai,Eastern,PLB,18
+Wan Chai,Eastern,Private Vehicle,65
+Wan Chai,Eastern,Rail,145
+Wan Chai,Eastern,SPB,15
+Wan Chai,Eastern,Taxi,19
+Wan Chai,Eastern,Tram,57
+Wan Chai,Fanling / Sheung Shui,Rail,9
+Wan Chai,Kowloon City,Bus,44
+Wan Chai,Kowloon City,PLB,1
+Wan Chai,Kowloon City,Private Vehicle,14
+Wan Chai,Kowloon City,Rail,16
+Wan Chai,Kowloon City,SPB,5
+Wan Chai,Kowloon City,Taxi,2
+Wan Chai,Kwai Chung,Bus,4
+Wan Chai,Kwai Chung,Private Vehicle,6
+Wan Chai,Kwai Chung,Rail,16
+Wan Chai,Kwai Chung,Taxi,1
+Wan Chai,Kwun Tong,Bus,17
+Wan Chai,Kwun Tong,PLB,2
+Wan Chai,Kwun Tong,Private Vehicle,25
+Wan Chai,Kwun Tong,Rail,94
+Wan Chai,Kwun Tong,Taxi,1
+Wan Chai,Ma On Shan,Private Vehicle,2
+Wan Chai,Mong Kok,Bus,24
+Wan Chai,Mong Kok,Ferry,1
+Wan Chai,Mong Kok,PLB,1
+Wan Chai,Mong Kok,Private Vehicle,6
+Wan Chai,Mong Kok,Rail,89
+Wan Chai,Mong Kok,SPB,1
+Wan Chai,Mong Kok,Taxi,3
+Wan Chai,North Lantau,Bus,15
+Wan Chai,North Lantau,PLB,2
+Wan Chai,North Lantau,Private Vehicle,1
+Wan Chai,North Lantau,Rail,13
+Wan Chai,North Lantau,Taxi,1
+Wan Chai,Rural NENT,Private Vehicle,2
+Wan Chai,Rural NENT,Rail,9
+Wan Chai,Rural NWNT,Bus,2
+Wan Chai,Rural NWNT,PLB,2
+Wan Chai,Rural NWNT,Private Vehicle,6
+Wan Chai,Rural NWNT,Rail,3
+Wan Chai,Rural SENT,Private Vehicle,5
+Wan Chai,Rural SENT,Rail,7
+Wan Chai,Rural SWNT,Rail,6
+Wan Chai,Sha Tin,Bus,8
+Wan Chai,Sha Tin,PLB,2
+Wan Chai,Sha Tin,Private Vehicle,5
+Wan Chai,Sha Tin,Rail,36
+Wan Chai,Sham Shui Po,Bus,13
+Wan Chai,Sham Shui Po,Ferry,1
+Wan Chai,Sham Shui Po,Private Vehicle,11
+Wan Chai,Sham Shui Po,Rail,36
+Wan Chai,Southern,Bus,58
+Wan Chai,Southern,PLB,41
+Wan Chai,Southern,Private Vehicle,73
+Wan Chai,Southern,Rail,1
+Wan Chai,Southern,SPB,30
+Wan Chai,Southern,Taxi,3
+Wan Chai,Tai Po,Bus,4
+Wan Chai,Tai Po,Private Vehicle,2
+Wan Chai,Tai Po,Rail,9
+Wan Chai,Tin Shui Wai,Bus,11
+Wan Chai,Tin Shui Wai,Rail,2
+Wan Chai,Tseung Kwan O,Rail,30
+Wan Chai,Tsing Yi,Rail,7
+Wan Chai,Tsuen Wan,PLB,3
+Wan Chai,Tsuen Wan,Private Vehicle,6
+Wan Chai,Tsuen Wan,Rail,16
+Wan Chai,Tuen Mun,Bus,5
+Wan Chai,Tuen Mun,Private Vehicle,4
+Wan Chai,Tuen Mun,Rail,6
+Wan Chai,Wan Chai,Bus,171
+Wan Chai,Wan Chai,Ferry,1
+Wan Chai,Wan Chai,PLB,213
+Wan Chai,Wan Chai,Private Vehicle,143
+Wan Chai,Wan Chai,Rail,46
+Wan Chai,Wan Chai,SPB,96
+Wan Chai,Wan Chai,Taxi,104
+Wan Chai,Wan Chai,Tram,218
+Wan Chai,Wong Tai Sin,Bus,5
+Wan Chai,Wong Tai Sin,Private Vehicle,7
+Wan Chai,Wong Tai Sin,Rail,7
+Wan Chai,Yau Ma Tei,Bus,14
+Wan Chai,Yau Ma Tei,Ferry,12
+Wan Chai,Yau Ma Tei,Private Vehicle,10
+Wan Chai,Yau Ma Tei,Rail,151
+Wan Chai,Yau Ma Tei,SPB,3
+Wan Chai,Yau Ma Tei,Taxi,2
+Wan Chai,Yuen Long,Bus,2
+Wan Chai,Yuen Long,Rail,1
+Wan Chai,Yuen Long,SPB,1
+Wong Tai Sin,Central & Western,Bus,39
+Wong Tai Sin,Central & Western,Ferry,6
+Wong Tai Sin,Central & Western,PLB,11
+Wong Tai Sin,Central & Western,Private Vehicle,16
+Wong Tai Sin,Central & Western,Rail,297
+Wong Tai Sin,Central & Western,Taxi,1
+Wong Tai Sin,Eastern,Bus,29
+Wong Tai Sin,Eastern,Private Vehicle,8
+Wong Tai Sin,Eastern,Rail,224
+Wong Tai Sin,Eastern,SPB,1
+Wong Tai Sin,Fanling / Sheung Shui,Bus,7
+Wong Tai Sin,Fanling / Sheung Shui,Rail,28
+Wong Tai Sin,Kowloon City,Bus,361
+Wong Tai Sin,Kowloon City,PLB,103
+Wong Tai Sin,Kowloon City,Private Vehicle,47
+Wong Tai Sin,Kowloon City,Rail,108
+Wong Tai Sin,Kowloon City,SPB,51
+Wong Tai Sin,Kowloon City,Taxi,22
+Wong Tai Sin,Kwai Chung,Bus,31
+Wong Tai Sin,Kwai Chung,PLB,44
+Wong Tai Sin,Kwai Chung,Private Vehicle,2
+Wong Tai Sin,Kwai Chung,Rail,134
+Wong Tai Sin,Kwai Chung,SPB,2
+Wong Tai Sin,Kwai Chung,Taxi,3
+Wong Tai Sin,Kwun Tong,Bus,263
+Wong Tai Sin,Kwun Tong,PLB,66
+Wong Tai Sin,Kwun Tong,Private Vehicle,19
+Wong Tai Sin,Kwun Tong,Rail,483
+Wong Tai Sin,Kwun Tong,SPB,11
+Wong Tai Sin,Kwun Tong,Taxi,20
+Wong Tai Sin,Ma On Shan,Bus,21
+Wong Tai Sin,Ma On Shan,PLB,2
+Wong Tai Sin,Ma On Shan,Rail,7
+Wong Tai Sin,Ma On Shan,SPB,4
+Wong Tai Sin,Mong Kok,Bus,152
+Wong Tai Sin,Mong Kok,PLB,105
+Wong Tai Sin,Mong Kok,Private Vehicle,14
+Wong Tai Sin,Mong Kok,Rail,274
+Wong Tai Sin,Mong Kok,SPB,5
+Wong Tai Sin,Mong Kok,Taxi,11
+Wong Tai Sin,North Lantau,Bus,46
+Wong Tai Sin,North Lantau,PLB,10
+Wong Tai Sin,North Lantau,Private Vehicle,1
+Wong Tai Sin,North Lantau,Rail,14
+Wong Tai Sin,North Lantau,SPB,2
+Wong Tai Sin,North Lantau,Taxi,2
+Wong Tai Sin,Rural NENT,Bus,1
+Wong Tai Sin,Rural NENT,PLB,3
+Wong Tai Sin,Rural NENT,Private Vehicle,3
+Wong Tai Sin,Rural NENT,Rail,38
+Wong Tai Sin,Rural NWNT,Bus,2
+Wong Tai Sin,Rural NWNT,PLB,2
+Wong Tai Sin,Rural NWNT,Private Vehicle,6
+Wong Tai Sin,Rural NWNT,Rail,12
+Wong Tai Sin,Rural SENT,Bus,37
+Wong Tai Sin,Rural SENT,PLB,11
+Wong Tai Sin,Rural SENT,Private Vehicle,8
+Wong Tai Sin,Rural SENT,Rail,8
+Wong Tai Sin,Rural SENT,SPB,1
+Wong Tai Sin,Rural SENT,Taxi,2
+Wong Tai Sin,Rural SWNT,Rail,9
+Wong Tai Sin,Sha Tin,Bus,112
+Wong Tai Sin,Sha Tin,PLB,19
+Wong Tai Sin,Sha Tin,Private Vehicle,15
+Wong Tai Sin,Sha Tin,Rail,157
+Wong Tai Sin,Sha Tin,Taxi,2
+Wong Tai Sin,Sham Shui Po,Bus,88
+Wong Tai Sin,Sham Shui Po,PLB,72
+Wong Tai Sin,Sham Shui Po,Private Vehicle,20
+Wong Tai Sin,Sham Shui Po,Rail,280
+Wong Tai Sin,Sham Shui Po,SPB,2
+Wong Tai Sin,Sham Shui Po,Taxi,3
+Wong Tai Sin,Southern,Bus,21
+Wong Tai Sin,Southern,Ferry,1
+Wong Tai Sin,Southern,PLB,16
+Wong Tai Sin,Southern,Private Vehicle,3
+Wong Tai Sin,Southern,Rail,19
+Wong Tai Sin,Southern,SPB,1
+Wong Tai Sin,Tai Po,Bus,16
+Wong Tai Sin,Tai Po,PLB,6
+Wong Tai Sin,Tai Po,Private Vehicle,7
+Wong Tai Sin,Tai Po,Rail,30
+Wong Tai Sin,Tai Po,SPB,5
+Wong Tai Sin,Tin Shui Wai,Bus,6
+Wong Tai Sin,Tin Shui Wai,PLB,2
+Wong Tai Sin,Tin Shui Wai,Rail,6
+Wong Tai Sin,Tseung Kwan O,Bus,11
+Wong Tai Sin,Tseung Kwan O,PLB,8
+Wong Tai Sin,Tseung Kwan O,Private Vehicle,3
+Wong Tai Sin,Tseung Kwan O,Rail,108
+Wong Tai Sin,Tseung Kwan O,SPB,9
+Wong Tai Sin,Tseung Kwan O,Taxi,1
+Wong Tai Sin,Tsing Yi,Bus,11
+Wong Tai Sin,Tsing Yi,PLB,5
+Wong Tai Sin,Tsing Yi,Private Vehicle,1
+Wong Tai Sin,Tsing Yi,Rail,21
+Wong Tai Sin,Tsing Yi,SPB,1
+Wong Tai Sin,Tsuen Wan,Bus,19
+Wong Tai Sin,Tsuen Wan,PLB,30
+Wong Tai Sin,Tsuen Wan,Private Vehicle,7
+Wong Tai Sin,Tsuen Wan,Rail,59
+Wong Tai Sin,Tsuen Wan,SPB,1
+Wong Tai Sin,Tuen Mun,Bus,22
+Wong Tai Sin,Tuen Mun,LRT,2
+Wong Tai Sin,Tuen Mun,PLB,7
+Wong Tai Sin,Tuen Mun,Private Vehicle,3
+Wong Tai Sin,Tuen Mun,Rail,12
+Wong Tai Sin,Wan Chai,Bus,103
+Wong Tai Sin,Wan Chai,Ferry,2
+Wong Tai Sin,Wan Chai,PLB,29
+Wong Tai Sin,Wan Chai,Private Vehicle,15
+Wong Tai Sin,Wan Chai,Rail,265
+Wong Tai Sin,Wan Chai,SPB,2
+Wong Tai Sin,Wan Chai,Taxi,2
+Wong Tai Sin,Wong Tai Sin,Bus,378
+Wong Tai Sin,Wong Tai Sin,PLB,593
+Wong Tai Sin,Wong Tai Sin,Private Vehicle,37
+Wong Tai Sin,Wong Tai Sin,Rail,136
+Wong Tai Sin,Wong Tai Sin,SPB,107
+Wong Tai Sin,Wong Tai Sin,Taxi,42
+Wong Tai Sin,Yau Ma Tei,Bus,267
+Wong Tai Sin,Yau Ma Tei,PLB,35
+Wong Tai Sin,Yau Ma Tei,Private Vehicle,18
+Wong Tai Sin,Yau Ma Tei,Rail,396
+Wong Tai Sin,Yau Ma Tei,SPB,8
+Wong Tai Sin,Yau Ma Tei,Taxi,16
+Wong Tai Sin,Yuen Long,Bus,10
+Wong Tai Sin,Yuen Long,PLB,5
+Wong Tai Sin,Yuen Long,Private Vehicle,4
+Wong Tai Sin,Yuen Long,Rail,10
+Wong Tai Sin,Yuen Long,Taxi,2
+Yau Ma Tei,Central & Western,Bus,40
+Yau Ma Tei,Central & Western,Ferry,8
+Yau Ma Tei,Central & Western,Private Vehicle,7
+Yau Ma Tei,Central & Western,Rail,267
+Yau Ma Tei,Central & Western,SPB,9
+Yau Ma Tei,Central & Western,Taxi,3
+Yau Ma Tei,Eastern,Bus,20
+Yau Ma Tei,Eastern,Private Vehicle,3
+Yau Ma Tei,Eastern,Rail,92
+Yau Ma Tei,Fanling / Sheung Shui,Private Vehicle,4
+Yau Ma Tei,Fanling / Sheung Shui,Rail,14
+Yau Ma Tei,Kowloon City,Bus,116
+Yau Ma Tei,Kowloon City,PLB,50
+Yau Ma Tei,Kowloon City,Private Vehicle,28
+Yau Ma Tei,Kowloon City,Rail,32
+Yau Ma Tei,Kowloon City,SPB,28
+Yau Ma Tei,Kowloon City,Taxi,20
+Yau Ma Tei,Kwai Chung,Bus,7
+Yau Ma Tei,Kwai Chung,PLB,3
+Yau Ma Tei,Kwai Chung,Private Vehicle,19
+Yau Ma Tei,Kwai Chung,Rail,71
+Yau Ma Tei,Kwai Chung,Taxi,4
+Yau Ma Tei,Kwun Tong,Bus,38
+Yau Ma Tei,Kwun Tong,PLB,4
+Yau Ma Tei,Kwun Tong,Private Vehicle,21
+Yau Ma Tei,Kwun Tong,Rail,105
+Yau Ma Tei,Kwun Tong,SPB,3
+Yau Ma Tei,Kwun Tong,Taxi,11
+Yau Ma Tei,Ma On Shan,Rail,2
+Yau Ma Tei,Ma On Shan,SPB,2
+Yau Ma Tei,Mong Kok,Bus,34
+Yau Ma Tei,Mong Kok,PLB,33
+Yau Ma Tei,Mong Kok,Private Vehicle,7
+Yau Ma Tei,Mong Kok,Rail,84
+Yau Ma Tei,Mong Kok,Taxi,12
+Yau Ma Tei,North Lantau,Bus,16
+Yau Ma Tei,North Lantau,Private Vehicle,12
+Yau Ma Tei,North Lantau,Rail,35
+Yau Ma Tei,North Lantau,SPB,4
+Yau Ma Tei,North Lantau,Taxi,1
+Yau Ma Tei,Rural NENT,Rail,12
+Yau Ma Tei,Rural NENT,SPB,1
+Yau Ma Tei,Rural NWNT,Bus,2
+Yau Ma Tei,Rural NWNT,PLB,2
+Yau Ma Tei,Rural NWNT,Private Vehicle,4
+Yau Ma Tei,Rural NWNT,Rail,14
+Yau Ma Tei,Rural NWNT,SPB,6
+Yau Ma Tei,Rural NWNT,Taxi,1
+Yau Ma Tei,Rural SENT,Ferry,4
+Yau Ma Tei,Rural SENT,PLB,1
+Yau Ma Tei,Rural SENT,Private Vehicle,3
+Yau Ma Tei,Rural SENT,Rail,7
+Yau Ma Tei,Rural SWNT,Ferry,2
+Yau Ma Tei,Rural SWNT,Rail,5
+Yau Ma Tei,Rural SWNT,SPB,1
+Yau Ma Tei,Sha Tin,Bus,19
+Yau Ma Tei,Sha Tin,PLB,2
+Yau Ma Tei,Sha Tin,Private Vehicle,12
+Yau Ma Tei,Sha Tin,Rail,55
+Yau Ma Tei,Sha Tin,Taxi,10
+Yau Ma Tei,Sham Shui Po,Bus,49
+Yau Ma Tei,Sham Shui Po,PLB,12
+Yau Ma Tei,Sham Shui Po,Private Vehicle,16
+Yau Ma Tei,Sham Shui Po,Rail,195
+Yau Ma Tei,Sham Shui Po,SPB,22
+Yau Ma Tei,Sham Shui Po,Taxi,7
+Yau Ma Tei,Southern,Bus,17
+Yau Ma Tei,Southern,PLB,6
+Yau Ma Tei,Southern,Private Vehicle,1
+Yau Ma Tei,Southern,Rail,6
+Yau Ma Tei,Southern,SPB,4
+Yau Ma Tei,Tai Po,Bus,11
+Yau Ma Tei,Tai Po,PLB,1
+Yau Ma Tei,Tai Po,Private Vehicle,2
+Yau Ma Tei,Tai Po,Rail,10
+Yau Ma Tei,Tai Po,SPB,5
+Yau Ma Tei,Tin Shui Wai,Bus,4
+Yau Ma Tei,Tin Shui Wai,Private Vehicle,1
+Yau Ma Tei,Tin Shui Wai,Rail,1
+Yau Ma Tei,Tseung Kwan O,Bus,10
+Yau Ma Tei,Tseung Kwan O,Private Vehicle,1
+Yau Ma Tei,Tseung Kwan O,Rail,21
+Yau Ma Tei,Tsing Yi,Bus,3
+Yau Ma Tei,Tsing Yi,Private Vehicle,1
+Yau Ma Tei,Tsing Yi,Rail,16
+Yau Ma Tei,Tsing Yi,SPB,1
+Yau Ma Tei,Tsuen Wan,Bus,3
+Yau Ma Tei,Tsuen Wan,PLB,2
+Yau Ma Tei,Tsuen Wan,Private Vehicle,2
+Yau Ma Tei,Tsuen Wan,Rail,54
+Yau Ma Tei,Tuen Mun,Bus,8
+Yau Ma Tei,Tuen Mun,Private Vehicle,7
+Yau Ma Tei,Tuen Mun,Rail,8
+Yau Ma Tei,Wan Chai,Bus,18
+Yau Ma Tei,Wan Chai,PLB,1
+Yau Ma Tei,Wan Chai,Private Vehicle,7
+Yau Ma Tei,Wan Chai,Rail,152
+Yau Ma Tei,Wan Chai,SPB,9
+Yau Ma Tei,Wong Tai Sin,Bus,23
+Yau Ma Tei,Wong Tai Sin,PLB,1
+Yau Ma Tei,Wong Tai Sin,Private Vehicle,7
+Yau Ma Tei,Wong Tai Sin,Rail,37
+Yau Ma Tei,Wong Tai Sin,SPB,2
+Yau Ma Tei,Wong Tai Sin,Taxi,2
+Yau Ma Tei,Yau Ma Tei,Bus,63
+Yau Ma Tei,Yau Ma Tei,PLB,101
+Yau Ma Tei,Yau Ma Tei,Private Vehicle,43
+Yau Ma Tei,Yau Ma Tei,Rail,138
+Yau Ma Tei,Yau Ma Tei,SPB,11
+Yau Ma Tei,Yau Ma Tei,Taxi,30
+Yau Ma Tei,Yuen Long,Bus,10
+Yau Ma Tei,Yuen Long,Rail,8
+Yuen Long,Central & Western,Bus,35
+Yuen Long,Central & Western,Private Vehicle,7
+Yuen Long,Central & Western,Rail,69
+Yuen Long,Central & Western,SPB,11
+Yuen Long,Central & Western,Tram,3
+Yuen Long,Eastern,Bus,3
+Yuen Long,Eastern,PLB,2
+Yuen Long,Eastern,Rail,31
+Yuen Long,Eastern,SPB,2
+Yuen Long,Fanling / Sheung Shui,Bus,42
+Yuen Long,Fanling / Sheung Shui,PLB,6
+Yuen Long,Fanling / Sheung Shui,Private Vehicle,7
+Yuen Long,Fanling / Sheung Shui,Rail,4
+Yuen Long,Kowloon City,Bus,9
+Yuen Long,Kowloon City,PLB,2
+Yuen Long,Kowloon City,Private Vehicle,5
+Yuen Long,Kowloon City,Rail,46
+Yuen Long,Kowloon City,Taxi,1
+Yuen Long,Kwai Chung,Bus,19
+Yuen Long,Kwai Chung,PLB,1
+Yuen Long,Kwai Chung,Private Vehicle,8
+Yuen Long,Kwai Chung,Rail,45
+Yuen Long,Kwun Tong,Bus,59
+Yuen Long,Kwun Tong,PLB,3
+Yuen Long,Kwun Tong,Rail,28
+Yuen Long,Kwun Tong,SPB,4
+Yuen Long,Ma On Shan,Rail,4
+Yuen Long,Mong Kok,Bus,23
+Yuen Long,Mong Kok,Private Vehicle,2
+Yuen Long,Mong Kok,Rail,39
+Yuen Long,North Lantau,Bus,38
+Yuen Long,North Lantau,PLB,1
+Yuen Long,North Lantau,Private Vehicle,2
+Yuen Long,North Lantau,Rail,4
+Yuen Long,North Lantau,SPB,4
+Yuen Long,Rural NENT,Bus,8
+Yuen Long,Rural NENT,PLB,5
+Yuen Long,Rural NENT,Private Vehicle,5
+Yuen Long,Rural NENT,Rail,8
+Yuen Long,Rural NENT,SPB,3
+Yuen Long,Rural NWNT,Bus,29
+Yuen Long,Rural NWNT,LRT,34
+Yuen Long,Rural NWNT,PLB,37
+Yuen Long,Rural NWNT,Private Vehicle,44
+Yuen Long,Rural NWNT,Rail,18
+Yuen Long,Rural NWNT,SPB,30
+Yuen Long,Rural NWNT,Taxi,4
+Yuen Long,Rural SWNT,Bus,4
+Yuen Long,Rural SWNT,Ferry,2
+Yuen Long,Sha Tin,Bus,21
+Yuen Long,Sha Tin,PLB,2
+Yuen Long,Sha Tin,Private Vehicle,11
+Yuen Long,Sha Tin,Rail,26
+Yuen Long,Sha Tin,SPB,1
+Yuen Long,Sham Shui Po,Bus,15
+Yuen Long,Sham Shui Po,PLB,6
+Yuen Long,Sham Shui Po,Private Vehicle,7
+Yuen Long,Sham Shui Po,Rail,70
+Yuen Long,Sham Shui Po,SPB,2
+Yuen Long,Southern,Bus,2
+Yuen Long,Southern,PLB,1
+Yuen Long,Southern,Rail,3
+Yuen Long,Tai Po,Bus,7
+Yuen Long,Tai Po,PLB,4
+Yuen Long,Tai Po,Rail,8
+Yuen Long,Tin Shui Wai,Bus,8
+Yuen Long,Tin Shui Wai,LRT,50
+Yuen Long,Tin Shui Wai,PLB,2
+Yuen Long,Tin Shui Wai,Private Vehicle,14
+Yuen Long,Tin Shui Wai,Rail,44
+Yuen Long,Tin Shui Wai,SPB,14
+Yuen Long,Tin Shui Wai,Taxi,1
+Yuen Long,Tseung Kwan O,Private Vehicle,1
+Yuen Long,Tseung Kwan O,Rail,8
+Yuen Long,Tsing Yi,Bus,3
+Yuen Long,Tsing Yi,Private Vehicle,4
+Yuen Long,Tsing Yi,Rail,9
+Yuen Long,Tsuen Wan,Bus,61
+Yuen Long,Tsuen Wan,PLB,2
+Yuen Long,Tsuen Wan,Private Vehicle,6
+Yuen Long,Tsuen Wan,Rail,67
+Yuen Long,Tuen Mun,Bus,4
+Yuen Long,Tuen Mun,LRT,71
+Yuen Long,Tuen Mun,PLB,17
+Yuen Long,Tuen Mun,Private Vehicle,32
+Yuen Long,Tuen Mun,Rail,95
+Yuen Long,Tuen Mun,SPB,2
+Yuen Long,Tuen Mun,Taxi,6
+Yuen Long,Wan Chai,Bus,33
+Yuen Long,Wan Chai,PLB,2
+Yuen Long,Wan Chai,Private Vehicle,2
+Yuen Long,Wan Chai,Rail,37
+Yuen Long,Wan Chai,SPB,7
+Yuen Long,Wong Tai Sin,Bus,10
+Yuen Long,Wong Tai Sin,PLB,2
+Yuen Long,Wong Tai Sin,Rail,12
+Yuen Long,Wong Tai Sin,SPB,2
+Yuen Long,Yau Ma Tei,Bus,20
+Yuen Long,Yau Ma Tei,Private Vehicle,10
+Yuen Long,Yau Ma Tei,Rail,116
+Yuen Long,Yuen Long,Bus,49
+Yuen Long,Yuen Long,LRT,50
+Yuen Long,Yuen Long,PLB,107
+Yuen Long,Yuen Long,Private Vehicle,60
+Yuen Long,Yuen Long,Rail,24
+Yuen Long,Yuen Long,SPB,138
+Yuen Long,Yuen Long,Taxi,7
